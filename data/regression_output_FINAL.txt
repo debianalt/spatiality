@@ -1,0 +1,196 @@
+================================================================================
+REGRESSIONS BY DEPARTMENTAL TYPE
+================================================================================
+
+Loaded 511 departments, 208 columns
+  Clusters found: 6
+  Cluster distribution:
+    Peripheral-Deprived: N=149 (13 with ECI)
+    Metropolitan-Core: N=61 (53 with ECI)
+    Metropolitan-Diversified: N=64 (46 with ECI)
+    Pampeana-Educated: N=99 (58 with ECI)
+    Semi-Rural-Active: N=52 (5 with ECI)
+    Intermediate-Urban: N=86 (49 with ECI)
+
+================================================================================
+1. MODEL SPECIFICATION
+================================================================================
+  DV: eci_software
+  Predictors: ln_pob_2010, pct_jefe_sec_2010, pct_pc_2010, pct_nbi_2010, rad_2014
+  No region dummies (types capture spatial structure)
+
+================================================================================
+2. POOLED MODEL (BASELINE)
+================================================================================
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  POOLED OLS: eci_software (all types)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  N = 224, R² = 0.4257, Adj R² = 0.4125
+  F = 29.393, p(F) = 9.17e-23
+
+  Variable                              B    SE(HC1)        t          p     Beta
+  --------------------------------------------------------------------------
+  Constant                        -6.5679     0.7420   -8.852     0.0000      ---
+  ln(Population)                   0.4559     0.0651    7.000     0.0000    0.536 ***
+  % Sec. educ. HH heads            0.0110     0.0102    1.079     0.2806    0.110 
+  % Computer ownership             0.0270     0.0143    1.894     0.0582    0.286 .
+  % Structural poverty (NBI)       0.0182     0.0177    1.030     0.3029    0.092 
+  Nighttime radiance              -0.0059     0.0030   -1.962     0.0497   -0.143 *
+
+  VIF:
+    ln(Population)                 VIF = 2.65 << MODERATE
+    % Sec. educ. HH heads          VIF = 3.52 << MODERATE
+    % Computer ownership           VIF = 5.25 << HIGH
+    % Structural poverty (NBI)     VIF = 2.25
+    Nighttime radiance             VIF = 3.04 << MODERATE
+
+================================================================================
+3. REGRESSIONS BY TYPE
+================================================================================
+
+  TYPE 1: Peripheral-Deprived — N_eci = 13 < 30
+  Using bivariate correlations with bootstrap CI instead.
+
+  Predictor                             r   CI low  CI high     N
+  -----------------------------------------------------------
+  ln(Population)                    0.326   -0.373    0.805    13
+  % Sec. educ. HH heads             0.546    0.127    0.815    13
+  % Computer ownership              0.550    0.060    0.839    13
+  % Structural poverty (NBI)       -0.087   -0.629    0.409    13
+  Nighttime radiance                0.194   -0.261    0.838    13
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  TYPE 2: Metropolitan-Core (N_eci = 53)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  N = 53, R² = 0.4160, Adj R² = 0.3538
+  F = 5.368, p(F) = 5.52e-04
+
+  Variable                              B    SE(HC1)        t          p     Beta
+  --------------------------------------------------------------------------
+  Constant                        -3.9095     1.8230   -2.145     0.0320      ---
+  ln(Population)                   0.5560     0.1191    4.670     0.0000    0.756 ***
+  % Sec. educ. HH heads            0.0502     0.0268    1.871     0.0613    0.608 .
+  % Computer ownership            -0.0640     0.0451   -1.419     0.1559   -0.500 
+  % Structural poverty (NBI)      -0.0586     0.0842   -0.696     0.4864   -0.087 
+  Nighttime radiance              -0.0128     0.0054   -2.363     0.0181   -0.378 *
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  TYPE 3: Metropolitan-Diversified (N_eci = 46)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  N = 46, R² = 0.3418, Adj R² = 0.2595
+  F = 8.152, p(F) = 2.23e-05
+
+  Variable                              B    SE(HC1)        t          p     Beta
+  --------------------------------------------------------------------------
+  Constant                        -7.2069     1.2596   -5.722     0.0000      ---
+  ln(Population)                   0.4783     0.1103    4.337     0.0000    0.568 ***
+  % Sec. educ. HH heads           -0.0055     0.0227   -0.242     0.8090   -0.046 
+  % Computer ownership             0.0476     0.0161    2.948     0.0032    0.433 **
+  % Structural poverty (NBI)       0.0327     0.0454    0.722     0.4704    0.082 
+  Nighttime radiance              -0.0061     0.0034   -1.794     0.0728   -0.190 .
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  TYPE 4: Pampeana-Educated (N_eci = 58)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  N = 58, R² = 0.2878, Adj R² = 0.2193
+  F = 4.819, p(F) = 1.08e-03
+
+  Variable                              B    SE(HC1)        t          p     Beta
+  --------------------------------------------------------------------------
+  Constant                        -6.8813     2.4166   -2.847     0.0044      ---
+  ln(Population)                   0.4464     0.2255    1.980     0.0477    0.310 *
+  % Sec. educ. HH heads            0.0074     0.0290    0.255     0.7989    0.046 
+  % Computer ownership             0.0224     0.0265    0.846     0.3974    0.114 
+  % Structural poverty (NBI)       0.0883     0.0648    1.363     0.1728    0.167 
+  Nighttime radiance               0.0115     0.0107    1.077     0.2814    0.119 
+
+  TYPE 5: Semi-Rural-Active — N_eci = 5 < 30
+  Using bivariate correlations with bootstrap CI instead.
+
+  Predictor                             r   CI low  CI high     N
+  -----------------------------------------------------------
+  ln(Population)                   -0.147      nan      nan     5
+  % Sec. educ. HH heads            -0.365      nan      nan     5
+  % Computer ownership             -0.514      nan      nan     5
+  % Structural poverty (NBI)        0.243      nan      nan     5
+  Nighttime radiance               -0.775      nan      nan     5
+
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  TYPE 6: Intermediate-Urban (N_eci = 49)
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  N = 49, R² = 0.1335, Adj R² = 0.0328
+  F = 2.369, p(F) = 5.52e-02
+
+  Variable                              B    SE(HC1)        t          p     Beta
+  --------------------------------------------------------------------------
+  Constant                        -3.7436     2.0531   -1.823     0.0683      ---
+  ln(Population)                   0.2227     0.2480    0.898     0.3692    0.258 
+  % Sec. educ. HH heads           -0.0256     0.0355   -0.720     0.4717   -0.096 
+  % Computer ownership             0.0478     0.0261    1.828     0.0676    0.324 .
+  % Structural poverty (NBI)       0.0203     0.0448    0.453     0.6508    0.103 
+  Nighttime radiance              -0.0051     0.0136   -0.378     0.7056   -0.098 
+
+================================================================================
+4. CHOW TEST FOR STRUCTURAL HETEROGENEITY
+================================================================================
+
+  Restricted (pooled): RSS = 128.6529, k = 6.0
+  Unrestricted (interactions): RSS = 104.3640, k = 35.0
+  Restrictions: q = 29.0
+  Chow F = 1.5168
+  p-value = 0.0529
+  -> NOT significant at p < 0.05
+
+  Restricted R² = 0.4257
+  Unrestricted R² = 0.5341
+  R² gain from interactions = 0.1084
+
+================================================================================
+5. COEFFICIENT COMPARISON TABLE (STANDARDISED BETAS)
+================================================================================
+  Variable                      Pooled     Type 1     Type 2     Type 3     Type 4     Type 5     Type 6
+  -----------------------------------------------------------------------------------------------
+  ln(Population)              0.536***        ---   0.756***   0.568***   0.310*          ---   0.258   
+  % Sec. educ. HH heads       0.110           ---   0.608.    -0.046      0.046           ---  -0.096   
+  % Computer ownership        0.286.          ---  -0.500      0.433**    0.114           ---   0.324.  
+  % Structural poverty (NBI)   0.092           ---  -0.087      0.082      0.167           ---   0.103   
+  Nighttime radiance         -0.143*          ---  -0.378*    -0.190.     0.119           ---  -0.098   
+  N                                224        <30         53         46         58        <30         49
+  R²                             0.426        ---      0.416      0.342      0.288        ---      0.134
+
+================================================================================
+6. GENERATING FOREST PLOT
+================================================================================
+  Forest plot saved: fig_forest_plot.png
+
+================================================================================
+7. KEY HYPOTHESIS: DOES pct_jefe_sec_2010 VARY ACROSS TYPES?
+================================================================================
+
+  Standardised Beta of pct_jefe_sec_2010 by type:
+    Pooled:          Beta = 0.110 (p = 0.2806)
+    Peripheral-Deprived  (N < 30, OLS not estimated)
+    Metropolitan-Core    Beta = 0.608 (p = 0.0613)
+    Metropolitan-Diversified Beta = -0.046 (p = 0.8090)
+    Pampeana-Educated    Beta = 0.046 (p = 0.7989)
+    Semi-Rural-Active    (N < 30, OLS not estimated)
+    Intermediate-Urban   Beta = -0.096 (p = 0.4717)
+
+  Interpretation:
+    If Beta(sec. educ.) varies substantially across types, this confirms
+    that the effect of cultural capital is contingent on territorial context.
+    The pooled model masks this heterogeneity.
+
+================================================================================
+SUMMARY
+================================================================================
+  Specification: eci_software ~ ln_pob_2010 + pct_jefe_sec_2010 + pct_pc_2010 + pct_nbi_2010 + rad_2014
+  Pooled: N = 224, R² = 0.426
+  Types estimated: 4
+  Chow test: F = 1.517, p = 0.0529
+  Figures: fig_forest_plot.png
+
+================================================================================
+REGRESSIONS BY TYPE COMPLETE
+================================================================================

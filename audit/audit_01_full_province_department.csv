@@ -1,0 +1,529 @@
+﻿schema,prov_code,dpto5,departamento,raw_repos,geo_repos,raw_devs,geo_devs,raw_langs,diff_repos,diff_devs,pct_diff_repos
+caba_github2026,02,02000,CABA General,15988,15988,1290,1290,105,0,0,0.0
+caba_github2026,02,02007,Comuna 1,32,32,4,4,9,0,0,0.0
+caba_github2026,02,02014,Comuna 2,23,23,3,3,4,0,0,0.0
+caba_github2026,02,02021,Comuna 3,35,35,4,4,11,0,0,0.0
+caba_github2026,02,02028,Comuna 4,69,69,4,4,9,0,0,0.0
+caba_github2026,02,02035,Comuna 5,103,103,5,5,17,0,0,0.0
+caba_github2026,02,02042,Comuna 6,109,109,6,6,9,0,0,0.0
+caba_github2026,02,02049,Comuna 7,88,88,5,5,9,0,0,0.0
+caba_github2026,02,02056,Comuna 8,43,43,2,2,8,0,0,0.0
+caba_github2026,02,02063,Comuna 9,82,82,2,2,8,0,0,0.0
+caba_github2026,02,02070,Comuna 10,30,30,3,3,9,0,0,0.0
+caba_github2026,02,02077,Comuna 11,42,42,5,5,8,0,0,0.0
+caba_github2026,02,02084,Comuna 12,69,69,6,6,9,0,0,0.0
+caba_github2026,02,02091,Comuna 13,44,44,5,5,6,0,0,0.0
+caba_github2026,02,02098,Comuna 14,123,123,8,8,16,0,0,0.0
+caba_github2026,02,02105,Comuna 15,85,85,7,7,10,0,0,0.0
+buenos_aires_github2026,06,06007,Adolfo Alsina,7,7,1,1,2,0,0,0.0
+buenos_aires_github2026,06,06014,Adolfo Gonzales Chaves,9,9,4,4,3,0,0,0.0
+buenos_aires_github2026,06,06021,Alberti,46,46,4,4,8,0,0,0.0
+buenos_aires_github2026,06,06028,Almirante Brown,649,649,65,65,28,0,0,0.0
+buenos_aires_github2026,06,06035,Avellaneda,2001,2001,201,201,47,0,0,0.0
+buenos_aires_github2026,06,06042,Ayacucho,3,3,2,2,1,0,0,0.0
+buenos_aires_github2026,06,06049,Azul,356,356,40,40,19,0,0,0.0
+buenos_aires_github2026,06,06056,Bahia Blanca,3273,3273,355,355,64,0,0,0.0
+buenos_aires_github2026,06,06063,Balcarce,140,140,18,18,16,0,0,0.0
+buenos_aires_github2026,06,06070,Baradero,270,270,29,29,15,0,0,0.0
+buenos_aires_github2026,06,06077,Arrecifes,62,62,7,7,7,0,0,0.0
+buenos_aires_github2026,06,06084,Benito Juarez,55,55,2,2,4,0,0,0.0
+buenos_aires_github2026,06,06091,Berazategui,843,843,110,110,31,0,0,0.0
+buenos_aires_github2026,06,06098,Berisso,169,169,22,22,19,0,0,0.0
+buenos_aires_github2026,06,06105,Bolivar,157,157,13,13,12,0,0,0.0
+buenos_aires_github2026,06,06112,Bragado,94,94,7,7,6,0,0,0.0
+buenos_aires_github2026,06,06119,Brandsen,63,63,5,5,10,0,0,0.0
+buenos_aires_github2026,06,06126,Campana,495,495,55,55,31,0,0,0.0
+buenos_aires_github2026,06,06134,Canuelas,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06140,Capitan Sarmiento,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06147,Carlos Casares,118,118,8,8,17,0,0,0.0
+buenos_aires_github2026,06,06154,Carlos Tejedor,1,1,1,1,1,0,0,0.0
+buenos_aires_github2026,06,06161,Carmen de Areco,72,72,3,3,12,0,0,0.0
+buenos_aires_github2026,06,06168,Castelli,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06175,Colon,25,25,5,5,7,0,0,0.0
+buenos_aires_github2026,06,06182,Coronel Rosales,276,276,37,37,16,0,0,0.0
+buenos_aires_github2026,06,06189,Coronel Dorrego,36,36,5,5,5,0,0,0.0
+buenos_aires_github2026,06,06196,Coronel Pringles,19,19,2,2,9,0,0,0.0
+buenos_aires_github2026,06,06203,Coronel Suarez,103,103,9,9,9,0,0,0.0
+buenos_aires_github2026,06,06210,Chacabuco,44,44,11,11,10,0,0,0.0
+buenos_aires_github2026,06,06218,Chascomus,12,12,7,7,6,0,0,0.0
+buenos_aires_github2026,06,06224,Chivilcoy,344,344,46,46,18,0,0,0.0
+buenos_aires_github2026,06,06231,Daireaux,30,30,3,3,5,0,0,0.0
+buenos_aires_github2026,06,06238,Dolores,73,73,11,11,8,0,0,0.0
+buenos_aires_github2026,06,06245,Ensenada,141,141,12,12,15,0,0,0.0
+buenos_aires_github2026,06,06252,Escobar,324,324,30,30,20,0,0,0.0
+buenos_aires_github2026,06,06260,Esteban Echeverria,598,598,41,41,21,0,0,0.0
+buenos_aires_github2026,06,06266,Exaltacion de la Cruz,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06270,Ezeiza,183,183,17,17,16,0,0,0.0
+buenos_aires_github2026,06,06274,Florencio Varela,542,542,64,64,28,0,0,0.0
+buenos_aires_github2026,06,06277,Florentino Ameghino,26,26,2,2,5,0,0,0.0
+buenos_aires_github2026,06,06280,General Alvarado,203,203,17,17,14,0,0,0.0
+buenos_aires_github2026,06,06287,General Alvear,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06294,General Arenales,11,11,2,2,2,0,0,0.0
+buenos_aires_github2026,06,06301,General Belgrano,19,19,2,2,4,0,0,0.0
+buenos_aires_github2026,06,06308,General Guido,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06315,General Juan Madariaga,38,38,4,4,8,0,0,0.0
+buenos_aires_github2026,06,06322,General La Madrid,42,42,2,2,3,0,0,0.0
+buenos_aires_github2026,06,06329,General Las Heras,9,9,4,4,2,0,0,0.0
+buenos_aires_github2026,06,06336,General Lavalle,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06343,General Paz,2,2,1,1,0,0,0,0.0
+buenos_aires_github2026,06,06351,General Pinto,7,7,3,3,1,0,0,0.0
+buenos_aires_github2026,06,06357,General Pueyrredon,17212,17212,1397,1397,111,0,0,0.0
+buenos_aires_github2026,06,06364,General Rodriguez,176,176,17,17,21,0,0,0.0
+buenos_aires_github2026,06,06371,General San Martin,566,566,54,54,23,0,0,0.0
+buenos_aires_github2026,06,06385,General Viamonte,27,27,3,3,6,0,0,0.0
+buenos_aires_github2026,06,06392,General Villegas,21,21,5,5,5,0,0,0.0
+buenos_aires_github2026,06,06399,Guamini,37,37,2,2,10,0,0,0.0
+buenos_aires_github2026,06,06406,Hipolito Yrigoyen,5,5,3,3,2,0,0,0.0
+buenos_aires_github2026,06,06408,Hurlingham,1125,1125,95,95,28,0,0,0.0
+buenos_aires_github2026,06,06410,Ituzaingo,204,204,23,23,13,0,0,0.0
+buenos_aires_github2026,06,06412,Jose C. Paz,128,128,14,14,15,0,0,0.0
+buenos_aires_github2026,06,06413,Junin,460,460,60,60,22,0,0,0.0
+buenos_aires_github2026,06,06420,La Costa,153,153,19,19,11,0,0,0.0
+buenos_aires_github2026,06,06427,La Matanza,995,995,113,115,41,0,2,0.0
+buenos_aires_github2026,06,06434,Lanus,847,847,69,69,28,0,0,0.0
+buenos_aires_github2026,06,06441,La Plata,18483,18483,1672,1677,140,0,5,0.0
+buenos_aires_github2026,06,06448,Laprida,4,4,2,2,2,0,0,0.0
+buenos_aires_github2026,06,06455,Las Flores,75,75,7,7,8,0,0,0.0
+buenos_aires_github2026,06,06462,Leandro N. Alem,25,25,3,3,5,0,0,0.0
+buenos_aires_github2026,06,06466,Lezama,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06469,Lincoln,34,34,9,9,6,0,0,0.0
+buenos_aires_github2026,06,06476,Loberia,7,7,2,2,2,0,0,0.0
+buenos_aires_github2026,06,06483,Lobos,105,105,6,6,12,0,0,0.0
+buenos_aires_github2026,06,06490,Lomas de Zamora,1615,1615,187,187,39,0,0,0.0
+buenos_aires_github2026,06,06497,Lujan,324,324,42,42,26,0,0,0.0
+buenos_aires_github2026,06,06505,Magdalena,25,25,3,3,6,0,0,0.0
+buenos_aires_github2026,06,06511,Maipu,25,25,1,1,7,0,0,0.0
+buenos_aires_github2026,06,06515,Malvinas Argentinas,451,451,34,34,21,0,0,0.0
+buenos_aires_github2026,06,06518,Mar Chiquita,80,80,7,7,9,0,0,0.0
+buenos_aires_github2026,06,06525,Marcos Paz,19,19,7,7,9,0,0,0.0
+buenos_aires_github2026,06,06532,Mercedes,382,382,25,25,18,0,0,0.0
+buenos_aires_github2026,06,06539,Merlo,664,664,67,67,37,0,0,0.0
+buenos_aires_github2026,06,06547,Monte,444,444,4,22,21,0,18,0.0
+buenos_aires_github2026,06,06553,Monte Hermoso,36,36,6,6,9,0,0,0.0
+buenos_aires_github2026,06,06560,Moreno,288,288,41,41,20,0,0,0.0
+buenos_aires_github2026,06,06568,Moron,665,665,84,84,40,0,0,0.0
+buenos_aires_github2026,06,06574,Navarro,54,54,11,11,9,0,0,0.0
+buenos_aires_github2026,06,06581,Necochea,862,862,78,79,32,0,1,0.0
+buenos_aires_github2026,06,06588,9 de Julio,32,32,6,6,10,0,0,0.0
+buenos_aires_github2026,06,06595,Olavarria,416,416,42,42,24,0,0,0.0
+buenos_aires_github2026,06,06602,Patagones,756,756,73,74,32,0,1,0.0
+buenos_aires_github2026,06,06609,Pehuajo,13,13,4,4,2,0,0,0.0
+buenos_aires_github2026,06,06616,Pellegrini,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06623,Pergamino,1089,1089,122,122,38,0,0,0.0
+buenos_aires_github2026,06,06630,Pila,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06638,Pilar,1410,1410,134,135,40,0,1,0.0
+buenos_aires_github2026,06,06644,Pinamar,413,413,38,39,23,0,1,0.0
+buenos_aires_github2026,06,06648,Presidente Peron,53,53,13,13,10,0,0,0.0
+buenos_aires_github2026,06,06651,Puan,27,27,2,2,7,0,0,0.0
+buenos_aires_github2026,06,06655,Punta Indio,20,20,5,5,4,0,0,0.0
+buenos_aires_github2026,06,06658,Quilmes,2863,2863,228,228,60,0,0,0.0
+buenos_aires_github2026,06,06665,Ramallo,213,213,22,22,16,0,0,0.0
+buenos_aires_github2026,06,06672,Rauch,33,33,4,4,9,0,0,0.0
+buenos_aires_github2026,06,06679,Rivadavia,9,9,4,4,2,0,0,0.0
+buenos_aires_github2026,06,06686,Rojas,82,82,14,14,12,0,0,0.0
+buenos_aires_github2026,06,06693,Roque Perez,24,24,3,3,10,0,0,0.0
+buenos_aires_github2026,06,06700,Saavedra,19,19,2,2,5,0,0,0.0
+buenos_aires_github2026,06,06707,Saladillo,42,42,6,6,8,0,0,0.0
+buenos_aires_github2026,06,06714,Salto,18,18,5,5,4,0,0,0.0
+buenos_aires_github2026,06,06721,Salliquelo,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06728,San Andres de Giles,17,17,3,3,7,0,0,0.0
+buenos_aires_github2026,06,06735,San Antonio de Areco,41,41,7,7,8,0,0,0.0
+buenos_aires_github2026,06,06742,San Cayetano,20,20,1,1,5,0,0,0.0
+buenos_aires_github2026,06,06749,San Fernando,625,625,42,42,23,0,0,0.0
+buenos_aires_github2026,06,06756,San Isidro,751,751,77,77,36,0,0,0.0
+buenos_aires_github2026,06,06760,San Miguel,4117,4117,297,298,51,0,1,0.0
+buenos_aires_github2026,06,06763,San Nicolas,759,759,81,81,24,0,0,0.0
+buenos_aires_github2026,06,06770,San Pedro,174,174,15,15,13,0,0,0.0
+buenos_aires_github2026,06,06778,San Vicente,59,59,8,8,9,0,0,0.0
+buenos_aires_github2026,06,06784,Suipacha,21,21,3,3,8,0,0,0.0
+buenos_aires_github2026,06,06791,Tandil,8566,8566,856,861,90,0,5,0.0
+buenos_aires_github2026,06,06798,Tapalque,14,14,1,1,4,0,0,0.0
+buenos_aires_github2026,06,06805,Tigre,1005,1005,113,113,35,0,0,0.0
+buenos_aires_github2026,06,06812,Tordillo,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06819,Tornquist,93,93,12,12,14,0,0,0.0
+buenos_aires_github2026,06,06826,Trenque Lauquen,215,215,19,19,18,0,0,0.0
+buenos_aires_github2026,06,06833,Tres Arroyos,320,320,58,58,18,0,0,0.0
+buenos_aires_github2026,06,06840,Tres de Febrero,486,486,49,49,29,0,0,0.0
+buenos_aires_github2026,06,06847,Tres Lomas,0,0,0,0,0,0,0,0.0
+buenos_aires_github2026,06,06854,25 de Mayo,49,49,4,4,7,0,0,0.0
+buenos_aires_github2026,06,06861,Vicente Lopez,1181,1181,125,126,35,0,1,0.0
+buenos_aires_github2026,06,06868,Villa Gesell,175,175,17,17,17,0,0,0.0
+buenos_aires_github2026,06,06875,Villarino,8,8,2,2,4,0,0,0.0
+buenos_aires_github2026,06,06882,Zarate,168,168,19,19,17,0,0,0.0
+catamarca_github2026,10,10007,Ambato,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10014,Ancasti,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10021,Andalgala,35,35,1,1,7,0,0,0.0
+catamarca_github2026,10,10028,Antofagasta de la Sierra,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10035,Belen,14,14,3,3,1,0,0,0.0
+catamarca_github2026,10,10042,Capayan,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10049,Capital,1984,1984,173,173,38,0,0,0.0
+catamarca_github2026,10,10056,El Alto,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10063,Fray Mamerto Esquiu,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10070,La Paz,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10077,Paclin,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10084,Poman,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10091,Santa Maria,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10098,Santa Rosa,0,0,0,0,0,0,0,0.0
+catamarca_github2026,10,10105,Tinogasta,45,45,4,4,7,0,0,0.0
+catamarca_github2026,10,10112,Valle Viejo,0,0,0,0,0,0,0,0.0
+cordoba_github2026,14,14007,Calamuchita,214,214,26,26,16,0,0,0.0
+cordoba_github2026,14,14014,Capital,50004,50004,2407,2411,181,0,4,0.0
+cordoba_github2026,14,14021,Colón,1506,1506,93,117,38,0,24,0.0
+cordoba_github2026,14,14028,Cruz del Eje,492,492,36,39,19,0,3,0.0
+cordoba_github2026,14,14035,General Roca,37,37,1,3,7,0,2,0.0
+cordoba_github2026,14,14042,General San Martín,2062,2062,178,219,43,0,41,0.0
+cordoba_github2026,14,14049,Ischilín,58,58,10,11,6,0,1,0.0
+cordoba_github2026,14,14056,Juárez Celman,261,261,23,25,16,0,2,0.0
+cordoba_github2026,14,14063,Marcos Juárez,274,274,38,46,19,0,8,0.0
+cordoba_github2026,14,14070,Minas,1,1,1,1,0,0,0,0.0
+cordoba_github2026,14,14077,Pocho,0,0,0,0,0,0,0,0.0
+cordoba_github2026,14,14084,Presidente Roque Sáenz Peña,55,55,10,11,10,0,1,0.0
+cordoba_github2026,14,14091,Punilla,1983,1983,150,172,50,0,22,0.0
+cordoba_github2026,14,14098,Río Cuarto,3608,3608,285,395,68,0,110,0.0
+cordoba_github2026,14,14105,Río Primero,0,0,0,0,0,0,0,0.0
+cordoba_github2026,14,14112,Río Seco,187,3,31,2,17,-184,-29,98.4
+cordoba_github2026,14,14119,Río Segundo,141,187,23,36,12,46,13,24.6
+cordoba_github2026,14,14126,San Alberto,2,141,1,24,0,139,23,98.6
+cordoba_github2026,14,14133,San Javier,1866,2,170,1,36,-1864,-169,99.9
+cordoba_github2026,14,14140,San Justo,595,1866,55,220,29,1271,165,68.1
+cordoba_github2026,14,14147,Santa María,0,595,0,70,0,595,70,100.0
+cordoba_github2026,14,14154,Sobremonte,570,0,69,0,26,-570,-69,100.0
+cordoba_github2026,14,14161,Tercero Arriba,10,570,1,79,4,560,78,98.2
+cordoba_github2026,14,14168,Totoral,0,0,0,0,0,0,0,0.0
+cordoba_github2026,14,14175,Tulumba,852,0,71,0,41,-852,-71,100.0
+cordoba_github2026,14,14182,Unión,3,852,0,75,1,849,75,99.6
+corrientes_github2026,18,18007,Bella Vista,184,184,14,14,20,0,0,0.0
+corrientes_github2026,18,18014,Beron de Astrada,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18021,Capital,7511,7519,763,766,83,8,3,0.1
+corrientes_github2026,18,18028,Concepcion,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18035,Curuzu Cuatia,0,54,2,6,0,54,4,100.0
+corrientes_github2026,18,18042,Empedrado,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18049,Esquina,9,34,3,10,3,25,7,73.5
+corrientes_github2026,18,18056,General Alvear,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18063,General Paz,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18070,Goya,8,164,2,27,3,156,25,95.1
+corrientes_github2026,18,18077,Itati,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18084,Ituzaingo,70,70,10,11,9,0,1,0.0
+corrientes_github2026,18,18091,Lavalle,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18098,Mburucuya,0,5,0,1,0,5,1,100.0
+corrientes_github2026,18,18105,Mercedes,0,27,0,9,0,27,9,100.0
+corrientes_github2026,18,18112,Monte Caseros,0,7,0,3,0,7,3,100.0
+corrientes_github2026,18,18119,Paso de los Libres,10,69,7,15,2,59,8,85.5
+corrientes_github2026,18,18126,Saladas,0,33,0,4,0,33,4,100.0
+corrientes_github2026,18,18133,San Cosme,0,11,0,1,0,11,1,100.0
+corrientes_github2026,18,18140,San Luis del Palmar,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18147,San Martin,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18154,San Miguel,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18161,San Roque,0,0,0,0,0,0,0,0.0
+corrientes_github2026,18,18168,Santo Tome,28,52,6,9,7,24,3,46.2
+corrientes_github2026,18,18175,Sauce,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22007,Almirante Brown,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22014,Bermejo,9,9,2,2,4,0,0,0.0
+chaco_github2026,22,22021,Comandante Fernandez,358,358,33,33,16,0,0,0.0
+chaco_github2026,22,22028,Chacabuco,13,13,8,8,5,0,0,0.0
+chaco_github2026,22,22036,12 de Octubre,7,7,2,2,4,0,0,0.0
+chaco_github2026,22,22039,2 de Abril,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22043,Fray Justo Santa Maria de Oro,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22049,General Belgrano,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22056,General Donovan,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22063,General Guemes,5,5,1,1,3,0,0,0.0
+chaco_github2026,22,22070,Independencia,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22077,Libertad,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22084,Libertador General San Martin,2,2,1,1,0,0,0,0.0
+chaco_github2026,22,22091,Maipu,4,4,1,1,1,0,0,0.0
+chaco_github2026,22,22098,Mayor Luis J Fontana,52,52,4,4,9,0,0,0.0
+chaco_github2026,22,22105,9 de Julio,69,69,3,3,7,0,0,0.0
+chaco_github2026,22,22112,OHiggins,8,8,1,1,2,0,0,0.0
+chaco_github2026,22,22119,Presidencia de la Plaza,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22126,1 de Mayo,0,0,1,1,0,0,0,0.0
+chaco_github2026,22,22133,Quitilipi,8,8,3,3,3,0,0,0.0
+chaco_github2026,22,22140,San Fernando,5202,5202,512,512,67,0,0,0.0
+chaco_github2026,22,22147,San Lorenzo,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22154,Sargento Cabral,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22161,Tapenaga,0,0,0,0,0,0,0,0.0
+chaco_github2026,22,22168,25 de Mayo,70,70,3,3,6,0,0,0.0
+chubut_github2026,26,26007,Biedma,686,686,59,59,29,0,0,0.0
+chubut_github2026,26,26014,Cushamen,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26021,Escalante,512,512,68,68,26,0,0,0.0
+chubut_github2026,26,26028,Florentino Ameghino,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26035,Futaleufu,334,334,23,23,16,0,0,0.0
+chubut_github2026,26,26042,Gaiman,105,105,9,9,13,0,0,0.0
+chubut_github2026,26,26049,Gastre,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26056,Languineo,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26063,Martires,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26070,Paso de Indios,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26077,Rawson,1803,1803,179,179,46,0,0,0.0
+chubut_github2026,26,26084,Rio Senguer,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26091,Sarmiento,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26098,Tehuelches,0,0,0,0,0,0,0,0.0
+chubut_github2026,26,26105,Telsen,0,0,0,0,0,0,0,0.0
+entre_rios_github2026,30,30008,Colón,252,252,17,17,24,0,0,0.0
+entre_rios_github2026,30,30015,Concordia,1515,1515,185,185,50,0,0,0.0
+entre_rios_github2026,30,30021,Diamante,71,71,6,6,11,0,0,0.0
+entre_rios_github2026,30,30028,Federación,75,75,11,11,15,0,0,0.0
+entre_rios_github2026,30,30035,Federal,7,7,1,1,1,0,0,0.0
+entre_rios_github2026,30,30042,Feliciano,0,0,0,0,0,0,0,0.0
+entre_rios_github2026,30,30049,Gualeguay,100,100,15,15,14,0,0,0.0
+entre_rios_github2026,30,30056,Gualeguaychú,592,592,80,80,27,0,0,0.0
+entre_rios_github2026,30,30063,Islas del Ibicuy,1,1,1,1,0,0,0,0.0
+entre_rios_github2026,30,30070,La Paz,5,5,3,3,1,0,0,0.0
+entre_rios_github2026,30,30077,Nogoyá,60,60,13,13,11,0,0,0.0
+entre_rios_github2026,30,30084,Paraná,3746,3746,337,338,64,0,1,0.0
+entre_rios_github2026,30,30088,San Salvador,98,117,6,7,11,19,1,16.2
+entre_rios_github2026,30,30091,Tala,39,39,3,3,10,0,0,0.0
+entre_rios_github2026,30,30098,Uruguay,1501,1519,134,135,42,18,1,1.2
+entre_rios_github2026,30,30105,Victoria,96,96,10,10,11,0,0,0.0
+entre_rios_github2026,30,30113,Villaguay,30,30,6,6,4,0,0,0.0
+formosa_github2026,34,34007,Bermejo,0,0,0,0,0,0,0,0.0
+formosa_github2026,34,34014,Formosa,5068,5068,335,335,59,0,0,0.0
+formosa_github2026,34,34021,Laishi,0,0,0,0,0,0,0,0.0
+formosa_github2026,34,34028,Matacos,0,0,0,0,0,0,0,0.0
+formosa_github2026,34,34035,Patiño,0,14,0,2,0,14,2,100.0
+formosa_github2026,34,34042,Pilagas,0,0,0,0,0,0,0,0.0
+formosa_github2026,34,34049,Pilcomayo,0,15,0,5,0,15,5,100.0
+formosa_github2026,34,34056,Pirané,0,193,0,5,0,193,5,100.0
+formosa_github2026,34,34063,Ramon Lista,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38007,Cochinoca,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38014,El Carmen,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38021,Dr. Manuel Belgrano,6204,6204,448,448,62,0,0,0.0
+jujuy_github2026,38,38028,Humahuaca,0,0,1,1,0,0,0,0.0
+jujuy_github2026,38,38035,Ledesma,86,86,5,5,7,0,0,0.0
+jujuy_github2026,38,38042,Palpala,92,92,9,9,10,0,0,0.0
+jujuy_github2026,38,38049,Rinconada,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38056,San Antonio,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38063,San Pedro,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38070,Santa Barbara,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38077,Santa Catalina,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38084,Susques,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38094,Tilcara,15,15,2,2,6,0,0,0.0
+jujuy_github2026,38,38098,Tumbaya,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38105,Valle Grande,0,0,0,0,0,0,0,0.0
+jujuy_github2026,38,38112,Yavi,7,7,2,2,4,0,0,0.0
+la_pampa_github2026,42,42007,Atreuco,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42014,Caleu Caleu,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42021,Capital,0,0,1,1,0,0,0,0.0
+la_pampa_github2026,42,42028,Catrilo,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42035,Conhelo,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42042,Curaco,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42049,Chalileo,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42056,Chapaleufu,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42063,Chical Co,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42070,Guatrache,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42077,Hucal,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42084,Lihuel Calel,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42091,Limay Mahuida,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42098,Loventue,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42105,Maraco,0,0,1,1,0,0,0,0.0
+la_pampa_github2026,42,42112,Puelen,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42119,Quemu Quemu,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42126,Rancul,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42133,Realico,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42140,Toay,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42147,Trenel,0,0,0,0,0,0,0,0.0
+la_pampa_github2026,42,42154,Utracan,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46007,Arauco,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46014,Capital,20,20,5,5,3,0,0,0.0
+la_rioja_github2026,46,46021,Castro Barros,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46028,Chamical,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46035,Chilecito,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46042,Coronel Felipe Varela,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46049,Famatina,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46056,General Angel V. Penaloza,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46063,General Belgrano,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46070,General Juan F. Quiroga,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46077,General Lamadrid,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46084,General Ocampo,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46091,General San Martin,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46098,Independencia,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46105,Rosario Vera Penaloza,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46112,San Blas de los Sauces,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46119,Sanagasta,0,0,0,0,0,0,0,0.0
+la_rioja_github2026,46,46126,Vinchina,0,0,0,0,0,0,0,0.0
+mendoza_github2026,50,50007,Capital,16642,16642,836,836,115,0,0,0.0
+mendoza_github2026,50,50014,General Alvear,104,104,9,9,13,0,0,0.0
+mendoza_github2026,50,50021,Godoy Cruz,548,548,17,17,17,0,0,0.0
+mendoza_github2026,50,50028,Guaymallen,88,88,4,4,10,0,0,0.0
+mendoza_github2026,50,50035,Junin,0,0,0,0,0,0,0,0.0
+mendoza_github2026,50,50042,La Paz,0,0,0,0,0,0,0,0.0
+mendoza_github2026,50,50049,Las Heras,4,4,1,1,2,0,0,0.0
+mendoza_github2026,50,50056,Lavalle,11,11,1,1,3,0,0,0.0
+mendoza_github2026,50,50063,Lujan de Cuyo,7,7,1,1,1,0,0,0.0
+mendoza_github2026,50,50070,Maipu,161,161,8,8,7,0,0,0.0
+mendoza_github2026,50,50077,Malargue,4,4,1,1,2,0,0,0.0
+mendoza_github2026,50,50084,Rivadavia,0,0,0,0,0,0,0,0.0
+mendoza_github2026,50,50091,San Carlos,3,3,1,1,0,0,0,0.0
+mendoza_github2026,50,50098,San Martin,0,0,0,0,0,0,0,0.0
+mendoza_github2026,50,50105,San Rafael,2035,2035,118,118,47,0,0,0.0
+mendoza_github2026,50,50112,Santa Rosa,0,0,0,0,0,0,0,0.0
+mendoza_github2026,50,50119,Tunuyan,25,25,2,2,8,0,0,0.0
+mendoza_github2026,50,50126,Tupungato,0,0,0,0,0,0,0,0.0
+misiones_github2026,54,54007,Apostoles,219,219,18,18,23,0,0,0.0
+misiones_github2026,54,54014,Cainguas,22,22,4,4,5,0,0,0.0
+misiones_github2026,54,54021,Candelaria,2,2,2,2,2,0,0,0.0
+misiones_github2026,54,54028,Capital,5684,5684,518,518,71,0,0,0.0
+misiones_github2026,54,54035,Concepcion,0,0,0,0,0,0,0,0.0
+misiones_github2026,54,54042,Eldorado,267,267,25,25,21,0,0,0.0
+misiones_github2026,54,54049,General Manuel Belgrano,0,0,2,2,0,0,0,0.0
+misiones_github2026,54,54056,Guarani,8,8,2,2,3,0,0,0.0
+misiones_github2026,54,54063,Iguazu,170,170,22,22,26,0,0,0.0
+misiones_github2026,54,54070,Leandro N Alem,48,48,14,14,13,0,0,0.0
+misiones_github2026,54,54077,Libertador Gral San Martin,123,123,12,12,10,0,0,0.0
+misiones_github2026,54,54084,Montecarlo,46,46,2,2,5,0,0,0.0
+misiones_github2026,54,54091,Obera,388,388,51,51,21,0,0,0.0
+misiones_github2026,54,54098,San Ignacio,160,160,9,9,14,0,0,0.0
+misiones_github2026,54,54105,San Javier,10,10,2,2,2,0,0,0.0
+misiones_github2026,54,54112,San Pedro,0,0,0,0,0,0,0,0.0
+misiones_github2026,54,54119,25 de Mayo,19,19,1,1,4,0,0,0.0
+neuquen_github2026,58,58007,Alumine,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58014,Anelo,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58021,Catan Lil,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58028,Collon Cura,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58035,Confluencia,2283,2283,242,242,51,0,0,0.0
+neuquen_github2026,58,58042,Chos Malal,38,38,2,2,6,0,0,0.0
+neuquen_github2026,58,58049,Huiliches,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58056,Lacar,71,71,9,9,14,0,0,0.0
+neuquen_github2026,58,58063,Loncopue,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58070,Los Lagos,26,26,5,5,6,0,0,0.0
+neuquen_github2026,58,58077,Minas,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58084,Norquin,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58091,Pehuenches,7,7,2,2,4,0,0,0.0
+neuquen_github2026,58,58098,Picun Leufu,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58105,Picunches,0,0,0,0,0,0,0,0.0
+neuquen_github2026,58,58112,Zapala,29,29,5,5,6,0,0,0.0
+rio_negro_github2026,62,62007,Adolfo Alsina,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62014,Avellaneda,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62021,Bariloche,3093,3093,344,344,71,0,0,0.0
+rio_negro_github2026,62,62028,Conesa,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62035,El Cuy,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62042,General Roca,1257,1257,104,104,43,0,0,0.0
+rio_negro_github2026,62,62049,9 de Julio,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62056,Norquinco,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62063,Pichi Mahuida,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62070,Pilcaniyeu,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62077,San Antonio,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62084,Valcheta,0,0,0,0,0,0,0,0.0
+rio_negro_github2026,62,62091,25 de Mayo,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66007,Anta,1,1,1,1,1,0,0,0.0
+salta_github2026,66,66014,Cachi,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66021,Cafayate,17,17,1,1,2,0,0,0.0
+salta_github2026,66,66028,Capital,8144,8144,786,786,78,0,0,0.0
+salta_github2026,66,66035,Cerrillos,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66042,Chicoana,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66049,General Guemes,22,22,2,2,6,0,0,0.0
+salta_github2026,66,66056,General Jose de San Martin,50,50,7,7,6,0,0,0.0
+salta_github2026,66,66063,Guachipas,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66070,Iruya,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66077,La Caldera,30,30,4,4,5,0,0,0.0
+salta_github2026,66,66084,La Candelaria,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66091,La Poma,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66098,La Vina,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66105,Los Andes,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66112,Metan,12,12,4,4,6,0,0,0.0
+salta_github2026,66,66119,Molinos,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66126,Oran,19,19,10,10,4,0,0,0.0
+salta_github2026,66,66133,Rivadavia,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66140,Rosario de la Frontera,34,34,3,3,6,0,0,0.0
+salta_github2026,66,66147,Rosario de Lerma,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66154,San Carlos,0,0,0,0,0,0,0,0.0
+salta_github2026,66,66161,Santa Victoria,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70007,Albardon,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70014,Angaco,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70021,Calingasta,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70028,Capital,117,117,12,12,15,0,0,0.0
+san_juan_github2026,70,70035,Caucete,13,13,3,3,3,0,0,0.0
+san_juan_github2026,70,70042,Chimbas,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70049,Iglesia,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70056,Jachal,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70063,9 de Julio,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70070,Pocito,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70077,Rawson,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70084,Rivadavia,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70091,San Martin,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70098,Santa Lucia,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70105,Sarmiento,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70112,Ullum,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70119,Valle Fertil,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70126,25 de Mayo,0,0,0,0,0,0,0,0.0
+san_juan_github2026,70,70133,Zonda,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74007,Ayacucho,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74014,Belgrano,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74021,Coronel Pringles,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74028,Chacabuco,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74035,General Pedernera,14,14,3,3,4,0,0,0.0
+san_luis_github2026,74,74042,Gobernador Dupuy,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74049,Junin,0,0,0,0,0,0,0,0.0
+san_luis_github2026,74,74056,Juan Martin de Pueyrredon,1553,1553,185,185,47,0,0,0.0
+san_luis_github2026,74,74063,Libertador General San Martin,0,0,0,0,0,0,0,0.0
+santa_cruz_github2026,78,78007,Corpen Aike,0,0,0,0,0,0,0,0.0
+santa_cruz_github2026,78,78014,Deseado,0,0,0,0,0,0,0,0.0
+santa_cruz_github2026,78,78021,Gueer Aike,12,12,1,1,2,0,0,0.0
+santa_cruz_github2026,78,78028,Lago Argentino,0,0,1,1,0,0,0,0.0
+santa_cruz_github2026,78,78035,Lago Buenos Aires,0,0,0,0,0,0,0,0.0
+santa_cruz_github2026,78,78042,Magallanes,0,0,0,0,0,0,0,0.0
+santa_cruz_github2026,78,78049,Rio Chico,0,0,0,0,0,0,0,0.0
+santa_fe_github2026,82,82007,Belgrano,29,29,8,8,10,0,0,0.0
+santa_fe_github2026,82,82014,Caseros,358,358,28,28,21,0,0,0.0
+santa_fe_github2026,82,82021,Castellanos,2276,2276,238,238,49,0,0,0.0
+santa_fe_github2026,82,82028,Constitución,67,67,13,13,12,0,0,0.0
+santa_fe_github2026,82,82035,Garay,7,7,1,1,3,0,0,0.0
+santa_fe_github2026,82,82042,General López,625,625,72,72,27,0,0,0.0
+santa_fe_github2026,82,82049,General Obligado,612,612,76,76,32,0,0,0.0
+santa_fe_github2026,82,82056,Iriondo,1,1,3,3,0,0,0,0.0
+santa_fe_github2026,82,82063,La Capital,23362,24818,1249,1330,145,1456,81,5.9
+santa_fe_github2026,82,82070,Las Colonias,347,347,32,32,22,0,0,0.0
+santa_fe_github2026,82,82077,9 de Julio,55,55,2,2,8,0,0,0.0
+santa_fe_github2026,82,82084,Rosario,16276,25257,1235,1756,125,8981,521,35.6
+santa_fe_github2026,82,82091,San Cristóbal,20,138,7,12,4,118,5,85.5
+santa_fe_github2026,82,82098,San Javier,0,0,0,0,0,0,0,0.0
+santa_fe_github2026,82,82105,San Jerónimo,57,87,7,9,4,30,2,34.5
+santa_fe_github2026,82,82112,San Justo,71,173,15,24,10,102,9,59.0
+santa_fe_github2026,82,82119,San Lorenzo,75,264,12,21,11,189,9,71.6
+santa_fe_github2026,82,82126,San Martín,0,7,0,2,0,7,2,100.0
+santa_fe_github2026,82,82133,Vera,16,87,5,9,8,71,4,81.6
+santiago_github2026,86,86007,Aguirre,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86014,Alberdi,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86021,Atamisqui,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86028,Avellaneda,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86035,Banda,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86042,Belgrano,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86049,Capital,68,68,2,2,9,0,0,0.0
+santiago_github2026,86,86056,Choya,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86063,Copo,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86070,Figueroa,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86077,General Taboada,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86084,Guasayan,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86091,Jimenez,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86098,Juan F. Ibarra,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86105,Loreto,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86112,Mitre,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86119,Moreno,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86126,Ojo de Agua,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86133,Pellegrini,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86140,Quebrachos,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86147,Rio Hondo,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86154,Rivadavia,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86161,Robles,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86168,Salavina,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86175,San Martin,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86182,Sarmiento,0,0,0,0,0,0,0,0.0
+santiago_github2026,86,86189,Silipica,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90007,Burruyacu,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90014,Cruz Alta,5,5,1,1,2,0,0,0.0
+tucuman_github2026,90,90021,Chicligasta,184,184,2,2,6,0,0,0.0
+tucuman_github2026,90,90028,Famailla,3,3,1,1,1,0,0,0.0
+tucuman_github2026,90,90035,Graneros,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90042,Juan Bautista Alberdi,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90049,La Cocha,19,19,2,2,3,0,0,0.0
+tucuman_github2026,90,90056,Leales,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90063,Lules,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90070,Monteros,20,20,2,2,6,0,0,0.0
+tucuman_github2026,90,90077,Rio Chico,17,17,2,2,4,0,0,0.0
+tucuman_github2026,90,90084,Capital,7476,7476,615,615,67,0,0,0.0
+tucuman_github2026,90,90091,Simoca,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90098,Tafi del Valle,0,0,0,0,0,0,0,0.0
+tucuman_github2026,90,90105,Tafi Viejo,37,37,7,7,6,0,0,0.0
+tucuman_github2026,90,90112,Trancas,15,15,2,2,3,0,0,0.0
+tucuman_github2026,90,90119,Yerba Buena,134,134,16,16,10,0,0,0.0
+tierra_del_fuego_github2026,94,94008,Rio Grande,0,0,0,0,0,0,0,0.0
+tierra_del_fuego_github2026,94,94011,Tolhuin,0,0,0,0,0,0,0,0.0
+tierra_del_fuego_github2026,94,94015,Ushuaia,2136,2136,200,200,51,0,0,0.0

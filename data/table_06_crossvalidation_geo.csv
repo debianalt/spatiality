@@ -1,0 +1,512 @@
+﻿dpto5,departamento,gh_total_repos,gh_total_developers,eci_software,geo_repos,geo_devs,repos_match,devs_match
+06007,Adolfo Alsina,7.0,1.0,,7.0,1,True,True
+06014,Adolfo Gonzales Chaves,9.0,4.0,,9.0,4,True,True
+06287,General Alvear,0.0,0.0,,0.0,0,True,True
+34042,Pilagás,0.0,0.0,,0.0,0,True,True
+22043,Fray Justo Santa María de Oro,0.0,0.0,,0.0,0,True,True
+22049,General Belgrano,0.0,0.0,,0.0,0,True,True
+22077,Libertad,0.0,0.0,,0.0,0,True,True
+06140,Capitán Sarmiento,0.0,0.0,,0.0,0,True,True
+38014,El Carmen,0.0,0.0,,0.0,0,True,True
+42154,Utracán,0.0,0.0,,0.0,0,True,True
+22154,Sargento Cabral,0.0,0.0,,0.0,0,True,True
+22161,Tapenagá,0.0,0.0,,0.0,0,True,True
+10112,Valle Viejo,0.0,0.0,,0.0,0,True,True
+46077,General Lamadrid,0.0,0.0,,0.0,0,True,True
+06336,General Lavalle,0.0,0.0,,0.0,0,True,True
+50091,San Carlos,3.0,1.0,,3.0,1,True,True
+06343,General Paz,2.0,1.0,,2.0,1,True,True
+58049,Huiliches,0.0,0.0,,0.0,0,True,True
+50098,San Martín,0.0,0.0,,0.0,0,True,True
+26049,Gastre,0.0,0.0,,0.0,0,True,True
+26056,Languiñeo,0.0,0.0,,0.0,0,True,True
+26070,Paso de Indios,0.0,0.0,,0.0,0,True,True
+66070,Iruya,0.0,0.0,,0.0,0,True,True
+66119,Molinos,0.0,0.0,,0.0,0,True,True
+26098,Tehuelches,0.0,0.0,,0.0,0,True,True
+06308,General Guido,0.0,0.0,,0.0,0,True,True
+30042,Feliciano,0.0,0.0,,0.0,0,True,True
+06329,General Las Heras,9.0,4.0,,9.0,4,True,True
+30063,Islas del Ibicuy,1.0,1.0,,1.0,1,True,True
+06351,General Pinto,7.0,3.0,,7.0,3,True,True
+30070,La Paz,5.0,3.0,,5.0,3,True,True
+10028,Antofagasta de la Sierra,0.0,0.0,,0.0,0,True,True
+86175,San Martín,0.0,0.0,,0.0,0,True,True
+86154,Rivadavia,0.0,0.0,,0.0,0,True,True
+34007,Bermejo,0.0,0.0,,0.0,0,True,True
+06875,Villarino,8.0,2.0,,8.0,2,True,True
+34035,Patiño,14.0,2.0,,14.0,2,True,True
+58084,Ñorquín,0.0,0.0,,0.0,0,True,True
+66161,Santa Victoria,0.0,0.0,,0.0,0,True,True
+34063,Ramón Lista,0.0,0.0,,0.0,0,True,True
+38007,Cochinoca,0.0,0.0,,0.0,0,True,True
+38028,Humahuaca,0.0,1.0,,0.0,1,True,True
+06448,Laprida,4.0,2.0,,4.0,2,True,True
+38077,Santa Catalina,0.0,0.0,,0.0,0,True,True
+38084,Susques,0.0,0.0,,0.0,0,True,True
+38098,Tumbaya,0.0,0.0,,0.0,0,True,True
+38105,Valle Grande,0.0,0.0,,0.0,0,True,True
+06679,Rivadavia,9.0,4.0,,9.0,4,True,True
+42028,Catriló,0.0,0.0,,0.0,0,True,True
+42035,Conhelo,0.0,0.0,,0.0,0,True,True
+42042,Curacó,0.0,0.0,,0.0,0,True,True
+42049,Chalileo,0.0,0.0,,0.0,0,True,True
+42056,Chapaleufú,0.0,0.0,,0.0,0,True,True
+42084,Lihuel Calel,0.0,0.0,,0.0,0,True,True
+42091,Limay Mahuida,0.0,0.0,,0.0,0,True,True
+42098,Loventué,0.0,0.0,,0.0,0,True,True
+42105,Maracó,0.0,1.0,,0.0,1,True,True
+06462,Leandro N. Alem,25.0,3.0,-1.4650276084178977,25.0,3,True,True
+46021,Castro Barros,0.0,0.0,,0.0,0,True,True
+46035,Chamical,0.0,0.0,,0.0,0,True,True
+14070,Minas,1.0,1.0,,1.0,1,True,True
+50112,Santa Rosa,0.0,0.0,,0.0,0,True,True
+06630,Pila,0.0,0.0,,0.0,0,True,True
+50126,Tupungato,0.0,0.0,,0.0,0,True,True
+06476,Lobería,7.0,2.0,,7.0,2,True,True
+06168,Castelli,0.0,0.0,,0.0,0,True,True
+54035,Concepción,0.0,0.0,,0.0,0,True,True
+54056,Guaraní,8.0,2.0,,8.0,2,True,True
+54112,San Pedro,0.0,0.0,,0.0,0,True,True
+58007,Aluminé,0.0,0.0,,0.0,0,True,True
+62056,Ñorquinco,0.0,0.0,,0.0,0,True,True
+10007,Ambato,0.0,0.0,,0.0,0,True,True
+58021,Catán Lil,0.0,0.0,,0.0,0,True,True
+10014,Ancasti,0.0,0.0,,0.0,0,True,True
+58028,Collón Curá,0.0,0.0,,0.0,0,True,True
+58077,Minas,0.0,0.0,,0.0,0,True,True
+70042,Chimbas,0.0,0.0,,0.0,0,True,True
+10084,Pomán,0.0,0.0,,0.0,0,True,True
+58091,Pehuenches,7.0,2.0,,7.0,2,True,True
+62007,Adolfo Alsina,0.0,0.0,,0.0,0,True,True
+62014,Avellaneda,0.0,0.0,,0.0,0,True,True
+18070,Goya,164.0,27.0,,164.0,27,True,True
+66035,Cerrillos,0.0,0.0,,0.0,0,True,True
+66042,Chicoana,0.0,0.0,,0.0,0,True,True
+18091,Lavalle,0.0,0.0,,0.0,0,True,True
+06154,Carlos Tejedor,1.0,1.0,,1.0,1,True,True
+10035,Belén,14.0,3.0,,14.0,3,True,True
+06616,Pellegrini,0.0,0.0,,0.0,0,True,True
+66091,La Poma,0.0,0.0,,0.0,0,True,True
+66098,La Viña,0.0,0.0,,0.0,0,True,True
+10070,La Paz,0.0,0.0,,0.0,0,True,True
+14105,Río Primero,0.0,0.0,,0.0,0,True,True
+70007,Albardón,0.0,0.0,,0.0,0,True,True
+70014,Angaco,0.0,0.0,,0.0,0,True,True
+70021,Calingasta,0.0,0.0,,0.0,0,True,True
+70049,Iglesia,0.0,0.0,,0.0,0,True,True
+70112,Ullum,0.0,0.0,,0.0,0,True,True
+70119,Valle Fértil,0.0,0.0,,0.0,0,True,True
+18028,Concepción,0.0,0.0,,0.0,0,True,True
+70133,Zonda,0.0,0.0,,0.0,0,True,True
+74007,Ayacucho,0.0,0.0,,0.0,0,True,True
+74021,Coronel Pringles,0.0,0.0,,0.0,0,True,True
+74042,Gobernador Dupuy,0.0,0.0,,0.0,0,True,True
+22036,12 de Octubre,7.0,2.0,,7.0,2,True,True
+14133,San Javier,2.0,1.0,,2.0,1,True,True
+78028,Lago Argentino,0.0,1.0,,0.0,1,True,True
+78042,Magallanes,0.0,0.0,,0.0,0,True,True
+34021,Laishi,0.0,0.0,,0.0,0,True,True
+14154,Sobremonte,0.0,0.0,,0.0,0,True,True
+26042,Gaiman,105.0,9.0,0.1643312675668603,105.0,9,True,True
+14168,Totoral,0.0,0.0,,0.0,0,True,True
+14175,Tulumba,0.0,0.0,,0.0,0,True,True
+82098,San Javier,0.0,0.0,,0.0,0,True,True
+86014,Alberdi,0.0,0.0,,0.0,0,True,True
+86021,Atamisqui,0.0,0.0,,0.0,0,True,True
+86042,Belgrano,0.0,0.0,,0.0,0,True,True
+18014,Berón de Astrada,0.0,0.0,,0.0,0,True,True
+50042,La Paz,0.0,0.0,,0.0,0,True,True
+86056,Copo,0.0,0.0,,0.0,0,True,True
+18042,Empedrado,0.0,0.0,,0.0,0,True,True
+18077,Itatí,0.0,0.0,,0.0,0,True,True
+74014,Belgrano,0.0,0.0,,0.0,0,True,True
+18098,Mburucuyá,5.0,1.0,,5.0,1,True,True
+74028,Chacabuco,0.0,0.0,,0.0,0,True,True
+74063,Libertador General San Martín,0.0,0.0,,0.0,0,True,True
+54014,Cainguás,22.0,4.0,-2.0506145084983083,22.0,4,True,True
+86182,Sarmiento,0.0,0.0,,0.0,0,True,True
+78049,Río Chico,0.0,0.0,,0.0,0,True,True
+18105,Mercedes,27.0,9.0,,27.0,9,True,True
+18112,Monte Caseros,7.0,3.0,,7.0,3,True,True
+34028,Matacos,0.0,0.0,,0.0,0,True,True
+18147,San Martín,0.0,0.0,,0.0,0,True,True
+18161,San Roque,0.0,0.0,,0.0,0,True,True
+90056,Leales,0.0,0.0,,0.0,0,True,True
+90063,Lules,0.0,0.0,,0.0,0,True,True
+82056,Iriondo,1.0,3.0,,1.0,3,True,True
+90091,Simoca,0.0,0.0,,0.0,0,True,True
+90098,Tafí del Valle,0.0,0.0,,0.0,0,True,True
+06134,Cañuelas,0.0,0.0,,0.0,0,True,True
+18049,Esquina,34.0,10.0,,34.0,10,True,True
+10091,Santa María,0.0,0.0,,0.0,0,True,True
+10098,Santa Rosa,0.0,0.0,,0.0,0,True,True
+22112,O'Higgins,8.0,1.0,,8.0,1,True,True
+22014,Bermejo,9.0,2.0,,9.0,2,True,True
+18063,General Paz,0.0,0.0,,0.0,0,True,True
+38063,San Pedro,0.0,0.0,,0.0,0,True,True
+42133,Realicó,0.0,0.0,,0.0,0,True,True
+46028,General Felipe Varela,0.0,0.0,,0.0,0,True,True
+06812,Tordillo,0.0,0.0,,0.0,0,True,True
+46098,Vinchina,0.0,0.0,,0.0,0,True,True
+50049,Las Heras,4.0,1.0,,4.0,1,True,True
+86168,Salavina,0.0,0.0,,0.0,0,True,True
+22056,General Donovan,0.0,0.0,,0.0,0,True,True
+86147,Río Hondo,0.0,0.0,,0.0,0,True,True
+10077,Paclín,0.0,0.0,,0.0,0,True,True
+86007,Aguirre,0.0,0.0,,0.0,0,True,True
+06084,Benito Juárez,55.0,2.0,-2.1804149451922266,55.0,2,True,True
+06294,General Arenales,11.0,2.0,-2.572027338739504,11.0,2,True,True
+06098,Berisso,169.0,22.0,0.3609858781160067,169.0,22,True,True
+06119,Brandsen,63.0,5.0,0.10145278733258174,63.0,5,True,True
+30035,Federal,7.0,1.0,,7.0,1,True,True
+06322,General La Madrid,42.0,2.0,-2.1815204869249887,42.0,2,True,True
+14077,Pocho,0.0,0.0,,0.0,0,True,True
+42063,Chical Co,0.0,0.0,,0.0,0,True,True
+42070,Guatraché,0.0,0.0,,0.0,0,True,True
+46007,Arauco,0.0,0.0,,0.0,0,True,True
+46042,Chilecito,0.0,0.0,,0.0,0,True,True
+06547,Monte,444.0,22.0,-0.34369057775180084,444.0,22,True,True
+46056,Ángel Vicente Peñaloza,0.0,0.0,,0.0,0,True,True
+46063,General Belgrano,0.0,0.0,,0.0,0,True,True
+06560,Moreno,288.0,41.0,0.08295325918080483,288.0,41,True,True
+46070,General Juan Facundo Quiroga,0.0,0.0,,0.0,0,True,True
+46084,General Ortiz de Ocampo,0.0,0.0,,0.0,0,True,True
+46091,General San Martín,0.0,0.0,,0.0,0,True,True
+46105,Independencia,0.0,0.0,,0.0,0,True,True
+46112,Rosario Vera Peñaloza,0.0,0.0,,0.0,0,True,True
+46119,San Blas de Los Sauces,0.0,0.0,,0.0,0,True,True
+46126,Sanagasta,0.0,0.0,,0.0,0,True,True
+06574,Navarro,54.0,11.0,-0.9811370985390789,54.0,11,True,True
+06588,9 de Julio,32.0,6.0,0.7200329441987181,32.0,6,True,True
+50084,Rivadavia,0.0,0.0,,0.0,0,True,True
+06658,Quilmes,2863.0,228.0,1.506450348022411,2863.0,228,True,True
+18154,San Miguel,0.0,0.0,,0.0,0,True,True
+06672,Rauch,33.0,4.0,-0.2954401299521512,33.0,4,True,True
+54021,Candelaria,2.0,2.0,,2.0,2,True,True
+54105,San Javier,10.0,2.0,,10.0,2,True,True
+58014,Añelo,0.0,0.0,,0.0,0,True,True
+22091,Maipú,4.0,1.0,,4.0,1,True,True
+06854,25 de Mayo,49.0,4.0,-0.43957654492876286,49.0,4,True,True
+62028,Conesa,0.0,0.0,,0.0,0,True,True
+62049,9 de Julio,0.0,0.0,,0.0,0,True,True
+62063,Pichi Mahuida,0.0,0.0,,0.0,0,True,True
+62084,Valcheta,0.0,0.0,,0.0,0,True,True
+10049,Capital,1984.0,173.0,1.0381829970806706,1984.0,173,True,True
+18056,General Alvear,0.0,0.0,,0.0,0,True,True
+62077,San Antonio,0.0,0.0,,0.0,0,True,True
+62091,25 de Mayo,0.0,0.0,,0.0,0,True,True
+66084,La Candelaria,0.0,0.0,,0.0,0,True,True
+26007,Biedma,686.0,59.0,2.1112704546167733,686.0,59,True,True
+26035,Futaleufú,334.0,23.0,-0.7648332343035756,334.0,23,True,True
+30008,Colón,252.0,17.0,0.8143521759324609,252.0,17,True,True
+30021,Diamante,71.0,6.0,0.21739240281508035,71.0,6,True,True
+70070,Pocito,0.0,0.0,,0.0,0,True,True
+30077,Nogoyá,60.0,13.0,-0.38958438334636847,60.0,13,True,True
+30105,Victoria,96.0,10.0,-0.7693857863575017,96.0,10,True,True
+30113,Villaguay,30.0,6.0,-1.9757464965121376,30.0,6,True,True
+34014,Formosa,5068.0,335.0,0.6063073851547917,5068.0,335,True,True
+54070,Leandro N. Alem,48.0,14.0,-0.28600107881431125,48.0,14,True,True
+46014,Capital,20.0,5.0,-1.0397566927967645,20.0,5,True,True
+74056,Juan Martín de Pueyrredón,1553.0,185.0,1.4109446340297944,1553.0,185,True,True
+82119,San Lorenzo,264.0,21.0,-0.6123354249489328,264.0,21,True,True
+54098,San Ignacio,160.0,9.0,-0.45414682560349495,160.0,9,True,True
+90049,La Cocha,19.0,2.0,-1.97648352433398,19.0,2,True,True
+90112,Trancas,15.0,2.0,-2.069218468945733,15.0,2,True,True
+66007,Anta,1.0,1.0,,1.0,1,True,True
+66126,Orán,19.0,10.0,,19.0,10,True,True
+70091,San Martín,0.0,0.0,,0.0,0,True,True
+70098,Santa Lucía,0.0,0.0,,0.0,0,True,True
+86084,Guasayán,0.0,0.0,,0.0,0,True,True
+86098,Juan Felipe Ibarra,0.0,0.0,,0.0,0,True,True
+90035,Graneros,0.0,0.0,,0.0,0,True,True
+22007,Almirante Brown,0.0,0.0,,0.0,0,True,True
+22039,2 de Abril,0.0,0.0,,0.0,0,True,True
+22070,Independencia,0.0,0.0,,0.0,0,True,True
+42021,Capital,0.0,1.0,,0.0,1,True,True
+06105,Bolívar,157.0,13.0,-0.4744285181863221,157.0,13,True,True
+06413,Junín,460.0,60.0,0.6848830624922992,460.0,60,True,True
+18168,Santo Tomé,52.0,9.0,0.28237109209157085,52.0,9,True,True
+38094,Tilcara,15.0,2.0,0.20444085977211035,15.0,2,True,True
+66021,Cafayate,17.0,1.0,-2.1815204869249887,17.0,1,True,True
+66105,Los Andes,0.0,0.0,,0.0,0,True,True
+10063,Fray Mamerto Esquiú,0.0,0.0,,0.0,0,True,True
+22126,1° de Mayo,0.0,1.0,,0.0,1,True,True
+50077,Malargüe,4.0,1.0,,4.0,1,True,True
+38049,Rinconada,0.0,0.0,,0.0,0,True,True
+38070,Santa Bárbara,0.0,0.0,,0.0,0,True,True
+38112,Yavi,7.0,2.0,,7.0,2,True,True
+42014,Caleu Caleu,0.0,0.0,,0.0,0,True,True
+42112,Puelén,0.0,0.0,,0.0,0,True,True
+54049,General Manuel Belgrano,0.0,2.0,,0.0,2,True,True
+58063,Loncopué,0.0,0.0,,0.0,0,True,True
+58098,Picún Leufú,0.0,0.0,,0.0,0,True,True
+66063,Guachipas,0.0,0.0,,0.0,0,True,True
+10042,Capayán,0.0,0.0,,0.0,0,True,True
+70126,25 de Mayo,0.0,0.0,,0.0,0,True,True
+78035,Lago Buenos Aires,0.0,0.0,,0.0,0,True,True
+82126,San Martín,7.0,2.0,,7.0,2,True,True
+86077,General Taboada,0.0,0.0,,0.0,0,True,True
+70056,Jáchal,0.0,0.0,,0.0,0,True,True
+66133,Rivadavia,0.0,0.0,,0.0,0,True,True
+26105,Telsen,0.0,0.0,,0.0,0,True,True
+06315,General Juan Madariaga,38.0,4.0,-0.27192761968978224,38.0,4,True,True
+06553,Monte Hermoso,36.0,6.0,-0.10767903036144734,36.0,6,True,True
+06568,Morón,665.0,84.0,0.90485011641864,665.0,84,True,True
+06581,Necochea,862.0,79.0,0.2587933194837455,862.0,79,True,True
+06655,Punta Indio,20.0,5.0,-0.7800220746723602,20.0,5,True,True
+06665,Ramallo,213.0,22.0,-0.2294640502752123,213.0,22,True,True
+14049,Ischilín,58.0,11.0,0.3777886541881903,58.0,11,True,True
+22168,25 de Mayo,70.0,3.0,-0.1832676944989586,70.0,3,True,True
+26021,Escalante,512.0,68.0,0.4842583946308447,512.0,68,True,True
+26077,Rawson,1803.0,179.0,1.1909962636458076,1803.0,179,True,True
+30015,Concordia,1515.0,185.0,1.399922858441183,1515.0,185,True,True
+70084,Rivadavia,0.0,0.0,,0.0,0,True,True
+90105,Tafí Viejo,37.0,7.0,0.4355524823811235,37.0,7,True,True
+22133,Quitilipi,8.0,3.0,,8.0,3,True,True
+22028,Chacabuco,13.0,8.0,,13.0,8,True,True
+38056,San Antonio,0.0,0.0,,0.0,0,True,True
+42007,Atreucó,0.0,0.0,,0.0,0,True,True
+42119,Quemú Quemú,0.0,0.0,,0.0,0,True,True
+42126,Rancul,0.0,0.0,,0.0,0,True,True
+42140,Toay,0.0,0.0,,0.0,0,True,True
+42147,Trenel,0.0,0.0,,0.0,0,True,True
+10056,El Alto,0.0,0.0,,0.0,0,True,True
+26063,Mártires,0.0,0.0,,0.0,0,True,True
+22119,Presidencia de la Plaza,0.0,0.0,,0.0,0,True,True
+46049,Famatina,0.0,0.0,,0.0,0,True,True
+06042,Ayacucho,3.0,2.0,,3.0,2,True,True
+50035,Junín,0.0,0.0,,0.0,0,True,True
+26014,Cushamen,0.0,0.0,,0.0,0,True,True
+26028,Florentino Ameghino,0.0,0.0,,0.0,0,True,True
+06721,Salliqueló,0.0,0.0,,0.0,0,True,True
+18126,Saladas,33.0,4.0,,33.0,4,True,True
+06218,Chascomús,12.0,7.0,,12.0,7,True,True
+58105,Picunches,0.0,0.0,,0.0,0,True,True
+26091,Sarmiento,0.0,0.0,,0.0,0,True,True
+70063,9 de Julio,0.0,0.0,,0.0,0,True,True
+66112,Metán,12.0,4.0,,12.0,4,True,True
+66147,Rosario de Lerma,0.0,0.0,,0.0,0,True,True
+66154,San Carlos,0.0,0.0,,0.0,0,True,True
+70105,Sarmiento,0.0,0.0,,0.0,0,True,True
+74035,General Pedernera,14.0,3.0,,14.0,3,True,True
+74049,Junín,0.0,0.0,,0.0,0,True,True
+62035,El Cuy,0.0,0.0,,0.0,0,True,True
+78007,Corpen Aike,0.0,0.0,,0.0,0,True,True
+78014,Deseado,0.0,0.0,,0.0,0,True,True
+86028,Avellaneda,0.0,0.0,,0.0,0,True,True
+86035,Banda,0.0,0.0,,0.0,0,True,True
+86063,Choya,0.0,0.0,,0.0,0,True,True
+86070,Figueroa,0.0,0.0,,0.0,0,True,True
+86091,Jiménez,0.0,0.0,,0.0,0,True,True
+86105,Loreto,0.0,0.0,,0.0,0,True,True
+86112,Mitre,0.0,0.0,,0.0,0,True,True
+86119,Moreno,0.0,0.0,,0.0,0,True,True
+86126,Ojo de Agua,0.0,0.0,,0.0,0,True,True
+86133,Pellegrini,0.0,0.0,,0.0,0,True,True
+86140,Quebrachos,0.0,0.0,,0.0,0,True,True
+86161,Robles,0.0,0.0,,0.0,0,True,True
+86189,Silípica,0.0,0.0,,0.0,0,True,True
+90007,Burruyacú,0.0,0.0,,0.0,0,True,True
+90014,Cruz Alta,5.0,1.0,,5.0,1,True,True
+90028,Famaillá,3.0,1.0,,3.0,1,True,True
+90042,Juan Bautista Alberdi,0.0,0.0,,0.0,0,True,True
+18035,Curuzú Cuatiá,54.0,6.0,,54.0,6,True,True
+18133,San Cosme,11.0,1.0,,11.0,1,True,True
+18140,San Luis del Palmar,0.0,0.0,,0.0,0,True,True
+06266,Exaltación de la Cruz,0.0,0.0,,0.0,0,True,True
+34049,Pilcomayo,15.0,5.0,,15.0,5,True,True
+34056,Pirané,193.0,5.0,,193.0,5,True,True
+66014,Cachi,0.0,0.0,,0.0,0,True,True
+42077,Hucal,0.0,0.0,,0.0,0,True,True
+22063,General Güemes,5.0,1.0,,5.0,1,True,True
+22084,Libertador General San Martín,2.0,1.0,,2.0,1,True,True
+14112,Río Seco,3.0,2.0,,3.0,2,True,True
+18175,Sauce,0.0,0.0,,0.0,0,True,True
+06847,Tres Lomas,0.0,0.0,,0.0,0,True,True
+18119,Paso de los Libres,69.0,15.0,,69.0,15,True,True
+22147,San Lorenzo,0.0,0.0,,0.0,0,True,True
+94008,Río Grande,0.0,0.0,,,0,False,True
+82035,Garay,7.0,1.0,,7.0,1,True,True
+06021,Alberti,46.0,4.0,-1.1651319444012762,46.0,4,True,True
+06028,Almirante Brown,649.0,65.0,0.33840063382334573,649.0,65,True,True
+06035,Avellaneda,2001.0,201.0,0.7864102172070082,2001.0,201,True,True
+06049,Azul,356.0,40.0,0.30528633771006514,356.0,40,True,True
+06056,Bahía Blanca,3273.0,355.0,1.5229483825568555,3273.0,355,True,True
+06063,Balcarce,140.0,18.0,0.8670710545351585,140.0,18,True,True
+06070,Baradero,270.0,29.0,-0.12981519018053872,270.0,29,True,True
+06077,Arrecifes,62.0,7.0,-0.9568127434818993,62.0,7,True,True
+06091,Berazategui,843.0,110.0,0.5008394151205915,843.0,110,True,True
+06112,Bragado,94.0,7.0,-1.97648352433398,94.0,7,True,True
+06126,Campana,495.0,55.0,0.8552793550583623,495.0,55,True,True
+06147,Carlos Casares,118.0,8.0,0.16426829191647266,118.0,8,True,True
+06182,Coronel de Marina Leonardo Rosales,276.0,37.0,-0.015524274799456464,276.0,37,True,True
+06161,Carmen de Areco,72.0,3.0,0.0018619450544359495,72.0,3,True,True
+06175,Colón,25.0,5.0,-0.07622701528705626,25.0,5,True,True
+06189,Coronel Dorrego,36.0,5.0,-1.715408595302464,36.0,5,True,True
+06196,Coronel Pringles,19.0,2.0,-0.4412404411029542,19.0,2,True,True
+06203,Coronel Suárez,103.0,9.0,-0.9050906294788079,103.0,9,True,True
+06210,Chacabuco,44.0,11.0,-0.3415774341741209,44.0,11,True,True
+06224,Chivilcoy,344.0,46.0,-0.008061876831308509,344.0,46,True,True
+06231,Daireaux,30.0,3.0,-0.8081670367326649,30.0,3,True,True
+06238,Dolores,73.0,11.0,-0.5910706856945359,73.0,11,True,True
+06245,Ensenada,141.0,12.0,-0.24228252309141307,141.0,12,True,True
+06252,Escobar,324.0,30.0,0.05512991132076335,324.0,30,True,True
+06260,Esteban Echeverría,598.0,41.0,-0.27652211475320854,598.0,41,True,True
+06270,Ezeiza,183.0,17.0,-0.3319603966849903,183.0,17,True,True
+06274,Florencio Varela,542.0,64.0,0.9335267240521855,542.0,64,True,True
+06277,Florentino Ameghino,26.0,2.0,-1.0988847742090688,26.0,2,True,True
+06280,General Alvarado,203.0,17.0,0.16286567520230927,203.0,17,True,True
+06301,General Belgrano,19.0,2.0,-1.3196007002202421,19.0,2,True,True
+06357,General Pueyrredón,17212.0,1397.0,1.0773976311411932,17212.0,1397,True,True
+06364,General Rodríguez,176.0,17.0,0.4808128530827046,176.0,17,True,True
+06371,General San Martín,566.0,54.0,0.09045767350120872,566.0,54,True,True
+06385,General Viamonte,27.0,3.0,-1.0333736034016092,27.0,3,True,True
+06392,General Villegas,21.0,5.0,-1.7067039526290326,21.0,5,True,True
+06399,Guaminí,37.0,2.0,0.36044691347645685,37.0,2,True,True
+06408,Hurlingham,1125.0,95.0,0.6014376810617007,1125.0,95,True,True
+06410,Ituzaingó,204.0,23.0,-0.27897809953330677,204.0,23,True,True
+06412,José C. Paz,128.0,14.0,-0.059900436892256895,128.0,14,True,True
+06420,La Costa,153.0,19.0,-0.3565379252927158,153.0,19,True,True
+06427,La Matanza,995.0,115.0,0.7543943268160144,995.0,115,True,True
+06434,Lanús,847.0,69.0,0.9432759314820791,847.0,69,True,True
+06441,La Plata,18483.0,1677.0,1.9344823708873045,18483.0,1677,True,True
+06455,Las Flores,75.0,7.0,-0.698749644292089,75.0,7,True,True
+06469,Lincoln,34.0,9.0,-0.498656698396809,34.0,9,True,True
+06483,Lobos,105.0,6.0,-0.6447251426188304,105.0,6,True,True
+06490,Lomas de Zamora,1615.0,187.0,0.9141017717826769,1615.0,187,True,True
+06497,Luján,324.0,42.0,1.009490016288074,324.0,42,True,True
+06505,Magdalena,25.0,3.0,-1.0602372887072278,25.0,3,True,True
+06511,Maipú,25.0,1.0,-1.1592425342638841,25.0,1,True,True
+06515,Malvinas Argentinas,451.0,34.0,0.5125530762645645,451.0,34,True,True
+06518,Mar Chiquita,80.0,7.0,-1.0072965528376785,80.0,7,True,True
+06525,Marcos Paz,19.0,7.0,0.22187873028372326,19.0,7,True,True
+06532,Mercedes,382.0,25.0,-0.7952062927614711,382.0,25,True,True
+06539,Merlo,664.0,67.0,1.1837854965385801,664.0,67,True,True
+06595,Olavarría,416.0,42.0,0.6888784177497715,416.0,42,True,True
+06602,Patagones,756.0,74.0,1.6599995984568585,756.0,74,True,True
+06623,Pergamino,1089.0,122.0,1.4545233558559194,1089.0,122,True,True
+06638,Pilar,1410.0,135.0,0.8356716181744303,1410.0,135,True,True
+06644,Pinamar,413.0,39.0,0.3413122954343949,413.0,39,True,True
+06648,Presidente Perón,53.0,13.0,-0.07459789683231033,53.0,13,True,True
+06651,Puán,27.0,2.0,-0.8406981037151051,27.0,2,True,True
+06686,Rojas,82.0,14.0,0.10438116897601321,82.0,14,True,True
+06693,Roque Pérez,24.0,3.0,0.9365181656185287,24.0,3,True,True
+06700,Saavedra,19.0,2.0,-0.14594486996672312,19.0,2,True,True
+06707,Saladillo,42.0,6.0,-0.6587556521408584,42.0,6,True,True
+06714,Salto,18.0,5.0,-0.9805465138071556,18.0,5,True,True
+06728,San Andrés de Giles,17.0,3.0,-0.13699067539714826,17.0,3,True,True
+06735,San Antonio de Areco,41.0,7.0,-0.7220148047636246,41.0,7,True,True
+06742,San Cayetano,20.0,1.0,-1.9757464965121376,20.0,1,True,True
+06749,San Fernando,625.0,42.0,0.5036300362291748,625.0,42,True,True
+06756,San Isidro,751.0,77.0,0.9774000918830841,751.0,77,True,True
+06760,San Miguel,4117.0,298.0,1.1989270955958113,4117.0,298,True,True
+06763,San Nicolás,759.0,81.0,0.37259120723714784,759.0,81,True,True
+06770,San Pedro,174.0,15.0,-0.21053408758762773,174.0,15,True,True
+06778,San Vicente,59.0,8.0,-0.5174749919409475,59.0,8,True,True
+06784,Suipacha,21.0,3.0,-0.9661508651916302,21.0,3,True,True
+06791,Tandil,8566.0,861.0,1.6334568394744358,8566.0,861,True,True
+06798,Tapalqué,14.0,1.0,-1.6861793028750534,14.0,1,True,True
+06805,Tigre,1005.0,113.0,0.7040965212032566,1005.0,113,True,True
+06819,Tornquist,93.0,12.0,0.2487201507175236,93.0,12,True,True
+06826,Trenque Lauquen,215.0,19.0,0.06799927973131116,215.0,19,True,True
+06833,Tres Arroyos,320.0,58.0,-0.04424439805154462,320.0,58,True,True
+06840,Tres de Febrero,486.0,49.0,0.18420873600298493,486.0,49,True,True
+06861,Vicente López,1181.0,126.0,1.3026154902125293,1181.0,126,True,True
+06868,Villa Gesell,175.0,17.0,0.5033876292425022,175.0,17,True,True
+06882,Zárate,168.0,19.0,0.12767875217164,168.0,19,True,True
+10021,Andalgalá,35.0,1.0,-0.44589160580633946,35.0,1,True,True
+62070,Pilcaniyeu,0.0,0.0,,0.0,0,True,True
+10105,Tinogasta,45.0,4.0,-0.45916468169804575,45.0,4,True,True
+14007,Calamuchita,214.0,26.0,0.4379301597713727,214.0,26,True,True
+14014,Capital,50004.0,2411.0,2.0789941970605055,50004.0,2411,True,True
+14021,Colón,1506.0,117.0,0.554672501310723,1506.0,117,True,True
+14028,Cruz del Eje,492.0,39.0,-0.06023337680953337,492.0,39,True,True
+14035,General Roca,37.0,3.0,-0.8509215024255345,37.0,3,True,True
+14042,General San Martín,2062.0,219.0,0.8505261933605822,2062.0,219,True,True
+14056,Juárez Celman,261.0,25.0,-0.6638572908624827,261.0,25,True,True
+14063,Marcos Juárez,274.0,46.0,0.4072880799475455,274.0,46,True,True
+14084,Presidente Roque Sáenz Peña,55.0,11.0,-0.05862475152072127,55.0,11,True,True
+14091,Punilla,1983.0,172.0,1.2679517953664858,1983.0,172,True,True
+14098,Río Cuarto,3608.0,395.0,1.5112811745994637,3608.0,395,True,True
+14119,Río Segundo,187.0,36.0,0.24591435785905214,187.0,36,True,True
+14126,San Alberto,141.0,24.0,-0.2692484740335904,141.0,24,True,True
+14140,San Justo,1866.0,220.0,0.21460743141832453,1866.0,220,True,True
+14147,Santa María,595.0,70.0,0.7205618616648354,595.0,70,True,True
+14161,Tercero Arriba,570.0,79.0,0.8513170349126551,570.0,79,True,True
+14182,Unión,852.0,75.0,1.0266503741297333,852.0,75,True,True
+18007,Bella Vista,184.0,14.0,1.3889186203465198,184.0,14,True,True
+18021,Capital,7519.0,766.0,1.140599500942761,7519.0,766,True,True
+18084,Ituzaingó,70.0,11.0,-0.9234556874040311,70.0,11,True,True
+22021,Comandante Fernández,358.0,33.0,-0.7853695054723896,358.0,33,True,True
+22098,Mayor Luis J. Fontana,52.0,4.0,-0.3444487000041602,52.0,4,True,True
+22105,9 de Julio,69.0,3.0,-1.4804374526992397,69.0,3,True,True
+22140,San Fernando,5202.0,512.0,1.3393169087638725,5202.0,512,True,True
+30028,Federación,75.0,11.0,0.20830110030168322,75.0,11,True,True
+30049,Gualeguay,100.0,15.0,0.4177578622649236,100.0,15,True,True
+30056,Gualeguaychú,592.0,80.0,0.5371704662587636,592.0,80,True,True
+70077,Rawson,0.0,0.0,,0.0,0,True,True
+30084,Paraná,3746.0,338.0,1.6479622639974592,3746.0,338,True,True
+30088,San Salvador,117.0,7.0,-0.6314357261927351,117.0,7,True,True
+30091,Tala,39.0,3.0,-0.10088044571754928,39.0,3,True,True
+30098,Uruguay,1519.0,135.0,1.6350387238972675,1519.0,135,True,True
+38042,Palpalá,92.0,9.0,-0.4984509673508419,92.0,9,True,True
+38021,Dr. Manuel Belgrano,6204.0,448.0,0.5958203458392622,6204.0,448,True,True
+38035,Ledesma,86.0,5.0,-1.200872390187549,86.0,5,True,True
+50014,General Alvear,104.0,9.0,-0.4220929809997268,104.0,9,True,True
+50021,Godoy Cruz,548.0,17.0,0.20694533617693603,548.0,17,True,True
+50028,Guaymallén,88.0,4.0,-0.19228578583476197,88.0,4,True,True
+50056,Lavalle,11.0,1.0,-0.7873493956539601,11.0,1,True,True
+50070,Maipú,161.0,8.0,-1.441404614984115,161.0,8,True,True
+50105,San Rafael,2035.0,118.0,1.3344163886299305,2035.0,118,True,True
+50119,Tunuyán,25.0,2.0,-0.7366280462800154,25.0,2,True,True
+54007,Apóstoles,219.0,18.0,0.9089545239494636,219.0,18,True,True
+54028,Capital,5684.0,518.0,0.9042695482175325,5684.0,518,True,True
+54042,Eldorado,267.0,25.0,0.5944371013689954,267.0,25,True,True
+54063,Iguazú,170.0,22.0,0.5081655503845867,170.0,22,True,True
+54084,Montecarlo,46.0,2.0,-2.0506145084983083,46.0,2,True,True
+54091,Oberá,388.0,51.0,0.05090214793164047,388.0,51,True,True
+54119,25 de Mayo,19.0,1.0,-0.007785019909930928,19.0,1,True,True
+58035,Confluencia,2283.0,242.0,1.0094805078049442,2283.0,242,True,True
+58042,Chos Malal,38.0,2.0,-0.2941048860690919,38.0,2,True,True
+58056,Lácar,71.0,9.0,0.7143373587666563,71.0,9,True,True
+58070,Los Lagos,26.0,5.0,-0.4597061931301918,26.0,5,True,True
+58112,Zapala,29.0,5.0,-1.190161727480119,29.0,5,True,True
+62021,Bariloche,3093.0,344.0,2.002863788721023,3093.0,344,True,True
+62042,General Roca,1257.0,104.0,1.7362444926760237,1257.0,104,True,True
+66028,Capital,8144.0,786.0,0.964803722160276,8144.0,786,True,True
+66049,General Güemes,22.0,2.0,-0.4309706328545049,22.0,2,True,True
+66056,General José de San Martín,50.0,7.0,-1.0455967199018945,50.0,7,True,True
+66077,La Caldera,30.0,4.0,-1.402608941064634,30.0,4,True,True
+66140,Rosario de la Frontera,34.0,3.0,-0.39744116472043967,34.0,3,True,True
+70028,Capital,117.0,12.0,-0.2623356027303298,117.0,12,True,True
+70035,Caucete,13.0,3.0,-0.2884997504830555,13.0,3,True,True
+50007,Capital,16642.0,836.0,1.776075460658003,16642.0,836,True,True
+78021,Güer Aike,12.0,1.0,-2.1815204869249887,12.0,1,True,True
+82007,Belgrano,29.0,8.0,0.24890798780561507,29.0,8,True,True
+82014,Caseros,358.0,28.0,1.2340855319310597,358.0,28,True,True
+82021,Castellanos,2276.0,238.0,0.9062195669538694,2276.0,238,True,True
+82028,Constitución,67.0,13.0,-0.7292603721410272,67.0,13,True,True
+82042,General López,625.0,72.0,0.3626530966432183,625.0,72,True,True
+82063,La Capital,24818.0,1330.0,2.108985958362051,24818.0,1330,True,True
+82070,Las Colonias,347.0,32.0,0.48398413268455387,347.0,32,True,True
+82077,9 de Julio,55.0,2.0,0.36208497477550217,55.0,2,True,True
+82084,Rosario,25257.0,1756.0,1.784252080740993,25257.0,1756,True,True
+82105,San Jerónimo,87.0,9.0,-1.97648352433398,87.0,9,True,True
+82112,San Justo,173.0,24.0,-0.4433288982661257,173.0,24,True,True
+54077,Libertador General San Martín,123.0,12.0,-0.47659737389132145,123.0,12,True,True
+86049,Capital,68.0,2.0,0.33390776549075496,68.0,2,True,True
+90021,Chicligasta,184.0,2.0,-1.552956843410214,184.0,2,True,True
+90070,Monteros,20.0,2.0,-1.1401065946253774,20.0,2,True,True
+90077,Río Chico,17.0,2.0,-1.5397872966197048,17.0,2,True,True
+90084,Capital,7476.0,615.0,1.091052784943383,7476.0,615,True,True
+82049,General Obligado,612.0,76.0,0.8411040705692342,612.0,76,True,True
+82091,San Cristóbal,138.0,12.0,-1.3482546764112535,138.0,12,True,True
+82133,Vera,87.0,9.0,0.243060972080171,87.0,9,True,True
+50063,Luján de Cuyo,7.0,1.0,,7.0,1,True,True
+06406,Hipólito Yrigoyen,5.0,3.0,,5.0,3,True,True
+06609,Pehuajó,13.0,4.0,,13.0,4,True,True
+26084,Río Senguer,0.0,0.0,,0.0,0,True,True
+90119,Yerba Buena,134.0,16.0,-1.0447303490679114,134.0,16,True,True
+02000,CABA,16965.0,1359.0,0.8511857005106829,15988.0,1290,False,False
+94015,Tolhuin,2136.0,200.0,1.9256302964825804,2136.0,200,True,True

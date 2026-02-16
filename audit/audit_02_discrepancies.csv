@@ -1,0 +1,33 @@
+﻿schema,prov_code,dpto5,departamento,raw_repos,geo_repos,raw_devs,geo_devs,raw_langs,diff_repos,diff_devs,pct_diff_repos
+cordoba_github2026,14,14154,Sobremonte,570,0,69,0,26,-570,-69,100.0
+cordoba_github2026,14,14147,Santa María,0,595,0,70,0,595,70,100.0
+corrientes_github2026,18,18035,Curuzu Cuatia,0,54,2,6,0,54,4,100.0
+corrientes_github2026,18,18112,Monte Caseros,0,7,0,3,0,7,3,100.0
+corrientes_github2026,18,18098,Mburucuya,0,5,0,1,0,5,1,100.0
+corrientes_github2026,18,18105,Mercedes,0,27,0,9,0,27,9,100.0
+cordoba_github2026,14,14175,Tulumba,852,0,71,0,41,-852,-71,100.0
+corrientes_github2026,18,18126,Saladas,0,33,0,4,0,33,4,100.0
+formosa_github2026,34,34035,Patiño,0,14,0,2,0,14,2,100.0
+formosa_github2026,34,34049,Pilcomayo,0,15,0,5,0,15,5,100.0
+santa_fe_github2026,82,82126,San Martín,0,7,0,2,0,7,2,100.0
+formosa_github2026,34,34056,Pirané,0,193,0,5,0,193,5,100.0
+corrientes_github2026,18,18133,San Cosme,0,11,0,1,0,11,1,100.0
+cordoba_github2026,14,14133,San Javier,1866,2,170,1,36,-1864,-169,99.9
+cordoba_github2026,14,14182,Unión,3,852,0,75,1,849,75,99.6
+cordoba_github2026,14,14126,San Alberto,2,141,1,24,0,139,23,98.6
+cordoba_github2026,14,14112,Río Seco,187,3,31,2,17,-184,-29,98.4
+cordoba_github2026,14,14161,Tercero Arriba,10,570,1,79,4,560,78,98.2
+corrientes_github2026,18,18070,Goya,8,164,2,27,3,156,25,95.1
+santa_fe_github2026,82,82091,San Cristóbal,20,138,7,12,4,118,5,85.5
+corrientes_github2026,18,18119,Paso de los Libres,10,69,7,15,2,59,8,85.5
+santa_fe_github2026,82,82133,Vera,16,87,5,9,8,71,4,81.6
+corrientes_github2026,18,18049,Esquina,9,34,3,10,3,25,7,73.5
+santa_fe_github2026,82,82119,San Lorenzo,75,264,12,21,11,189,9,71.6
+cordoba_github2026,14,14140,San Justo,595,1866,55,220,29,1271,165,68.1
+santa_fe_github2026,82,82112,San Justo,71,173,15,24,10,102,9,59.0
+corrientes_github2026,18,18168,Santo Tome,28,52,6,9,7,24,3,46.2
+santa_fe_github2026,82,82084,Rosario,16276,25257,1235,1756,125,8981,521,35.6
+santa_fe_github2026,82,82105,San Jerónimo,57,87,7,9,4,30,2,34.5
+cordoba_github2026,14,14119,Río Segundo,141,187,23,36,12,46,13,24.6
+entre_rios_github2026,30,30088,San Salvador,98,117,6,7,11,19,1,16.2
+santa_fe_github2026,82,82063,La Capital,23362,24818,1249,1330,145,1456,81,5.9
