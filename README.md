@@ -155,6 +155,8 @@ If you use these data or methods, please cite:
 
 > Gomez, R. E. (2026). The spatiality of software: subnational economic complexity from GitHub data in Argentina. *Working paper*.
 
+**Zenodo DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18674718.svg)](https://doi.org/10.5281/zenodo.18674718)
+
 ## Licence
 
 Data and code are provided under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
