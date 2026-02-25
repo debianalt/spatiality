@@ -1,0 +1,31 @@
+{
+  "title": "Replication materials: 'The spatiality of software: subnational economic complexity from GitHub data in Argentina'",
+  "description": "Data, scripts, and figures for replicating the analysis in Gomez (2026). Includes processed datasets (511 Argentine departments, bipartite matrix, RCA, ECI), MCA and clustering scripts, regression models, and all output figures.",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Gomez, Raimundo Elias",
+      "affiliation": "CONICET, Universidad Nacional de Misiones, Argentina; Institute of Sociology, University of Porto, Portugal",
+      "orcid": "0000-0002-4468-9618"
+    }
+  ],
+  "keywords": [
+    "economic complexity",
+    "subnational development",
+    "software production",
+    "GitHub",
+    "Argentina",
+    "multiple correspondence analysis",
+    "replication materials"
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18772162",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Companion article submitted to Journal of Economic Geography."
+}
