@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the data, analysis scripts, and figures for the research *"The spatiality of software: subnational economic complexity from GitHub data in Argentina"*, currently under peer review.
+This repository contains the data, analysis scripts, and figures for the research *"The spatiality of software: subnational economic complexity from GitHub data in Argentina"*, currently under development.
 
 The study constructs an Economic Complexity Index for software production (ECI<sub>software</sub>) at the level of 224 Argentine departments using a bipartite network of departments and 87 programming languages derived from 229,270 geocoded GitHub repositories. A three-stage analytical strategy — Multiple Correspondence Analysis (MCA), Hierarchical Agglomerative Clustering (CAH), and type-specific regressions — examines how the determinants of software complexity vary across six territorial types.
 
