@@ -18,6 +18,12 @@
 
 *Diagnostic panel. (a) Raw MCA eigenvalues; (b) Benzecri-corrected eigenvalues with retention threshold; (c) Silhouette and Calinski-Harabasz indices for k = 3-7; (d) Per-sample silhouette scores for the six-type solution.*
 
+### Figure S3. Longitudinal Rank Stability of ECI_software (2015–2025)
+
+![Temporal panel](../figures/fig_panel_trajectories.png)
+
+*Longitudinal stability of ECI_software across eleven cumulative annual snapshots (2015–2025). (a) Mean ECI_software by departmental type over time, with standard-error bands; the divergence between types is established by 2018 and amplifies thereafter, consistent with path-dependent capability accumulation. (b) Scatter of ECI_software in 2020 versus 2025 among the 125 departments present in both snapshots (Spearman rho = 0.78, *p* < 0.001); the dashed line indicates the 1:1 correspondence. Consecutive-year Spearman rank correlations range from 0.82 to 0.97 across all year pairs (2015–2025); 68 per cent of departments in the top complexity quintile in 2020 remain in the top quintile in 2025 (against 20 per cent expected under random reassignment).*
+
 ---
 
 ### Table S1. Full ECI Ranking
@@ -57,9 +63,9 @@ Individual-level data for departments in Peripheral-Deprived (N = 13 with ECI) a
 
 **File:** `table_S3_small_types_data.csv`
 
-### Table S4. Within-Type Correlations with ECI<sub>software</sub>
+### Table S4. Within-Type Correlations with ECI_software
 
-Pearson correlations between ECI<sub>software</sub> and 16 candidate variables, computed separately for each departmental type (MCA-CAH classification). Variables were selected from the full set of ~208 available indicators on the basis of theoretical relevance across five domains: cultural capital, demography, infrastructure, digital access, and spatial inequality. Only the *N* departments with non-missing ECI values within each type enter the within-type correlations. Correlations for Semi-Rural-Active (*N* = 5) are reported for completeness but should not be interpreted given the minimal sample size. Correlations with |*r*| > 0.30 within at least one type are highlighted in the article text (§4.3.4).
+Pearson correlations between ECI_software and 16 candidate variables, computed separately for each departmental type (MCA-CAH classification). Variables were selected from the full set of ~208 available indicators on the basis of theoretical relevance across five domains: education, demography, infrastructure, digital access, and spatial inequality. Only the *N* departments with non-missing ECI values within each type enter the within-type correlations. Correlations for Semi-Rural-Active (*N* = 5) are reported for completeness but should not be interpreted given the minimal sample size.
 
 **File:** `table_S4_within_type_correlations.csv`
 
@@ -69,3 +75,26 @@ Pearson correlations between ECI<sub>software</sub> and 16 candidate variables, 
 | domain | Thematic domain |
 | national_r / national_n | Pearson *r* with ECI and *N* for the full sample |
 | [type]_r / [type]_n | Pearson *r* with ECI and *N* within each departmental type |
+
+### Table S5. Bundle Robustness Check: ECI_individual vs ECI_bundle
+
+Departmental rankings under the individual-language ECI_software and a bundle-based ECI recomputed after mapping the 87 retained languages onto the 38 software-bundle clusters identified by Juhász et al. (2026). Pearson *r* = 0.90 and Spearman rho = 0.90 across all 224 departments. Rank_change = Rank_individual – Rank_bundle; positive values indicate that a department ranks higher under the individual-language measure.
+
+**File:** `table_s_bundle_robustness.csv`
+
+| Column | Description |
+|--------|-------------|
+| dpto5 | INDEC department code |
+| Departamento | Department name |
+| Provincia | Province |
+| ECI_individual | Individual-language ECI_software (standardised) |
+| Rank_individual | Rank under individual-language ECI |
+| ECI_bundle | Bundle-based ECI (standardised) |
+| Rank_bundle | Rank under bundle ECI |
+| Rank_change | Rank_individual – Rank_bundle |
+
+### Table S6. Pairwise Correlations among Predictor Variables
+
+Pearson correlations among the six predictor variables used in the pooled and within-type regressions (log population, secondary education rate, university education rate, computer ownership, nighttime radiance, employment rate), computed for the 224 departments with ECI data. Provided for assessment of multicollinearity; maximum variance inflation factor in the pooled model is 5.25.
+
+**File:** `table_S5_correlation_matrix.csv`

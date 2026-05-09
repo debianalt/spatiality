@@ -1,0 +1,10 @@
+,Variable,sec_educ,uni_educ,pc_own,rad_viirs,emp_rate,nbi,overcrwd,ln_pop,eci_software
+1,Secondary education,1,,,,,,,,
+2,University education,0.89***,1,,,,,,,
+3,Computer ownership,0.86***,0.77***,1,,,,,,
+4,Nighttime radiance,0.70***,0.63***,0.62***,1,,,,,
+5,Employment rate,0.64***,0.57***,0.83***,0.42***,1,,,,
+6,Unsatisfied basic needs,-0.58***,-0.50***,-0.77***,-0.33***,-0.78***,1,,,
+7,Overcrowding,-0.50***,-0.48***,-0.69***,-0.25***,-0.74***,0.90***,1,,
+8,Population (log),0.60***,0.53***,0.49***,0.78***,0.22***,-0.23***,-0.11*,1,
+9,ECIsoftware,0.50***,0.42***,0.44***,0.48***,0.26***,-0.08,-0.06,0.60***,1

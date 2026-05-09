@@ -1,0 +1,143 @@
+Language,Cluster,Cluster Name
+AMPL,9,Specialized Tools
+ANTLR,8,Text Parsing DSLs
+ASP.NET,22,Enterprise OOP
+ActionScript,31,Dynamic General Purpose
+Ada,28,Strongly Typed Systems
+Apex,22,Enterprise OOP
+AppleScript,33,Event Scripting
+Assembly,11,Database Scripting
+AutoHotkey,33,Event Scripting
+Awk,30,Shell Scripting
+Batchfile,30,Shell Scripting
+Blade,2,HTML-Centric Templating
+Brainfuck,9,Specialized Tools
+C,24,Low-Level C-Based
+C#,23,Popular JVM OOP
+C++,25,OOP System Programming
+CMake,4,Cross-Platform Build Systems
+CSS,16,Web Markup/Styling
+Clojure,37,Functional Lisp
+CoffeeScript,31,Dynamic General Purpose
+Common Lisp,37,Functional Lisp
+Cuda,24,Low-Level C-Based
+D,23,Popular JVM OOP
+DIGITAL Command Language,29,Unix-Like Scripting
+DTrace,5,Debugging/Testing Tools
+Dart,23,Popular JVM OOP
+Dockerfile,10,Interactive Tools
+Elixir,38,Concurrency-Oriented
+Elm,36,Pure Functional
+Emacs Lisp,37,Functional Lisp
+Erlang,38,Concurrency-Oriented
+F#,21,Functional JVM
+Forth,13,Low-Level Hardware
+Fortran,28,Strongly Typed Systems
+FreeMarker,2,HTML-Centric Templating
+G-code,18,Low-Level Utilities
+GAP,17,Scientific Tools
+GDB,5,Debugging/Testing Tools
+GDScript,34,Desktop Automation
+GLSL,13,Low-Level Hardware
+Gherkin,6,Data/Document DSLs
+Gnuplot,17,Scientific Tools
+Go,28,Strongly Typed Systems
+Groovy,20,Dynamic OOP Scripting
+HCL,9,Specialized Tools
+HLSL,14,Graphics/Hardware Languages
+HTML,16,Web Markup/Styling
+Hack,20,Dynamic OOP Scripting
+Haml,1,JavaScript-Based Templating
+Handlebars,1,JavaScript-Based Templating
+Haskell,36,Pure Functional
+Inno Setup,7,Installer & Scripting Utilities
+Java,23,Popular JVM OOP
+JavaScript,31,Dynamic General Purpose
+Julia,31,Dynamic General Purpose
+Jupyter Notebook,10,Interactive Tools
+Kotlin,23,Popular JVM OOP
+LLVM,19,Low-Level Languages
+Less,16,Web Markup/Styling
+Lex,8,Text Parsing DSLs
+Liquid,1,JavaScript-Based Templating
+Logos,7,Installer & Scripting Utilities
+Lua,31,Dynamic General Purpose
+M,18,Low-Level Utilities
+M4,10,Interactive Tools
+MATLAB,31,Dynamic General Purpose
+Makefile,3,Unix Build Tools
+Mako,2,HTML-Centric Templating
+Mathematica,34,Desktop Automation
+Meson,3,Unix Build Tools
+NASL,17,Scientific Tools
+NSIS,7,Installer & Scripting Utilities
+Nim,26,Pascal-Based Systems
+Nix,3,Unix Build Tools
+OCaml,36,Pure Functional
+Objective-C,25,OOP System Programming
+Objective-C++,25,OOP System Programming
+OpenEdge ABL,26,Pascal-Based Systems
+OpenSCAD,19,Low-Level Languages
+PHP,31,Dynamic General Purpose
+PLSQL,12,Batch/High-Level Tools
+PLpgSQL,11,Database Scripting
+Pascal,26,Pascal-Based Systems
+Pawn,15,Game Scripting
+Perl,31,Dynamic General Purpose
+PostScript,19,Low-Level Languages
+PowerShell,31,Dynamic General Purpose
+Processing,12,Batch/High-Level Tools
+Prolog,35,Logic Programming
+Pug,2,HTML-Centric Templating
+Puppet,4,Cross-Platform Build Systems
+PureBasic,15,Game Scripting
+Python,31,Dynamic General Purpose
+QML,2,HTML-Centric Templating
+QMake,4,Cross-Platform Build Systems
+R,31,Dynamic General Purpose
+Raku,31,Dynamic General Purpose
+Rebol,30,Shell Scripting
+RobotFramework,5,Debugging/Testing Tools
+Roff,18,Low-Level Utilities
+Ruby,31,Dynamic General Purpose
+Rust,28,Strongly Typed Systems
+SCSS,16,Web Markup/Styling
+SQLPL,11,Database Scripting
+SWIG,6,Data/Document DSLs
+Sass,16,Web Markup/Styling
+Scala,21,Functional JVM
+Scheme,37,Functional Lisp
+Scilab,31,Dynamic General Purpose
+ShaderLab,14,Graphics/Hardware Languages
+Shell,30,Shell Scripting
+SmPL,6,Data/Document DSLs
+Smalltalk,31,Dynamic General Purpose
+Smarty,1,JavaScript-Based Templating
+Solidity,27,Modern Contract/Typed
+SourcePawn,15,Game Scripting
+Standard ML,36,Pure Functional
+Starlark,17,Scientific Tools
+Stata,29,Unix-Like Scripting
+Stylus,16,Web Markup/Styling
+Svelte,2,HTML-Centric Templating
+Swift,27,Modern Contract/Typed
+SystemVerilog,14,Graphics/Hardware Languages
+TSQL,11,Database Scripting
+Tcl,29,Unix-Like Scripting
+TeX,16,Web Markup/Styling
+Thrift,8,Text Parsing DSLs
+Twig,1,JavaScript-Based Templating
+TypeScript,32,Typed Scripting
+UnrealScript,12,Batch/High-Level Tools
+VBA,34,Desktop Automation
+VBScript,34,Desktop Automation
+VHDL,13,Low-Level Hardware
+Verilog,14,Graphics/Hardware Languages
+Vim Script,30,Shell Scripting
+Vim Snippet,7,Installer & Scripting Utilities
+Visual Basic .NET,22,Enterprise OOP
+Vue,1,JavaScript-Based Templating
+XS,19,Low-Level Languages
+XSLT,18,Low-Level Utilities
+Yacc,8,Text Parsing DSLs
+sed,30,Shell Scripting
