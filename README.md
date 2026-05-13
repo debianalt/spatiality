@@ -1,4 +1,4 @@
-# The Spatiality of Software: Subnational Economic Complexity from GitHub Data in Argentina
+# Software complexity and the accumulation of technical capabilities within a peripheral economy: a subnational typology of Argentina
 
 **Author:** Raimundo Elias Gomez
 **Affiliation:** CONICET / Facultad de Humanidades y Ciencias Sociales, Universidad Nacional de Misiones (UNaM)

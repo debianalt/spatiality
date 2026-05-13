@@ -1,6 +1,6 @@
 # Supplementary Material
 
-## The Spatiality of Software: Subnational Economic Complexity from GitHub Data in Argentina
+## Software complexity and the accumulation of technical capabilities within a peripheral economy: a subnational typology of Argentina
 
 **Author:** Raimundo Elias Gomez
 
@@ -53,7 +53,7 @@ Complete ranking of 224 departments by ECI_software, with cluster assignment and
 
 ### Table S2. Cluster x Region Cross-Tabulation
 
-Cross-tabulation of six departmental types with six Argentine regions (chi-squared = 351.5, df = 25, *p* < 0.001, Cramer's *V* = 0.371).
+Cross-tabulation of six departmental types with six Argentine regions (chi-squared = 351.5, df = 25, *p* < 0.001, Cramér's *V* = 0.371).
 
 **File:** `table_S2_cluster_region_crosstab.csv`
 

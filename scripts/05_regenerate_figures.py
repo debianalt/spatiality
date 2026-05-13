@@ -381,9 +381,6 @@ sc2 = ax2.scatter(
     alpha=0.7, edgecolors="grey", linewidths=0.5, zorder=2
 )
 
-cbar2 = plt.colorbar(sc2, ax=ax2, shrink=0.7, pad=0.02)
-cbar2.set_label("Product Complexity Index (PCI)", fontsize=STYLE["axis_label_size"])
-cbar2.ax.tick_params(labelsize=STYLE["tick_size"])
 
 # Label languages — select top/bottom by PCI plus notable ones
 top_pci = lang_stats.nlargest(8, "pci")["language"].tolist()
@@ -506,8 +503,8 @@ if texts3:
 
 pct1 = pct_inertia[0]
 pct2 = pct_inertia[1]
-ax3.set_xlabel(f"Dimension 1 ({pct1:.1f}% inertia)")
-ax3.set_ylabel(f"Dimension 2 ({pct2:.1f}% inertia)")
+ax3.set_xlabel(f"Axis 1 ({pct1:.1f}% inertia)")
+ax3.set_ylabel(f"Axis 2 ({pct2:.1f}% inertia)")
 ax3.axhline(0, color="grey", linewidth=0.5, linestyle="--")
 ax3.axvline(0, color="grey", linewidth=0.5, linestyle="--")
 
@@ -596,8 +593,8 @@ for c in sorted(df_mca["mca_cluster"].unique()):
     ax5.plot(cx, cy, marker="+", color=colour, markersize=14,
              markeredgewidth=2.5, zorder=4)
 
-ax5.set_xlabel(f"Dimension 1 ({pct_inertia[0]:.1f}% inertia)")
-ax5.set_ylabel(f"Dimension 2 ({pct_inertia[1]:.1f}% inertia)")
+ax5.set_xlabel(f"Axis 1 ({pct_inertia[0]:.1f}% inertia)")
+ax5.set_ylabel(f"Axis 2 ({pct_inertia[1]:.1f}% inertia)")
 ax5.axhline(0, color="grey", linewidth=0.5, linestyle="--")
 ax5.axvline(0, color="grey", linewidth=0.5, linestyle="--")
 ax5.legend(loc="best")
@@ -801,6 +798,14 @@ ax_c.legend(loc="upper left", fontsize=STYLE["small_annot_size"])
 # --- (d) Silhouette per sample ---
 ax_d = axes[1, 1]
 sample_sil = silhouette_samples(X_cah, labels_final)
+SHORT_SILHOUETTE = {
+    "Metropolitan-Core":        "Metro-Core",
+    "Metropolitan-Diversified": "Metro-Div.",
+    "Pampeana-Educated":        "Pampeana",
+    "Peripheral-Deprived":      "Periph.-Dep.",
+    "Semi-Rural-Active":        "Semi-Rural",
+    "Intermediate-Urban":       "Interm.-Urb.",
+}
 y_lower = 10
 for i in range(1, best_k + 1):
     cluster_sil = np.sort(sample_sil[labels_final == i])
@@ -811,7 +816,9 @@ for i in range(1, best_k + 1):
         np.arange(y_lower, y_upper), 0, cluster_sil,
         facecolor=colour, edgecolor=colour, alpha=0.7
     )
-    ax_d.text(-0.05, y_lower + 0.5 * size_i, f"C{i}",
+    label_full = cluster_labels.get(i, f"C{i}")
+    label_s = SHORT_SILHOUETTE.get(label_full, label_full[:12])
+    ax_d.text(-0.05, y_lower + 0.5 * size_i, label_s,
               fontsize=STYLE["small_annot_size"], fontweight="bold")
     y_lower = y_upper + 10
 

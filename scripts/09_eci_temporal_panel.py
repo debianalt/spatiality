@@ -254,11 +254,11 @@ CLUSTER_COLORS = {
 }
 CLUSTER_SHORT = {
     "Metropolitan-Core":       "Metro-Core",
-    "Metropolitan-Diversified":"Metro-Div",
-    "Pampeana-Educated":       "Pampeana-Educ",
-    "Intermediate-Urban":      "Intermediate",
-    "Peripheral-Deprived":     "Peripheral",
-    "Semi-Rural-Active":       "Semi-Rural",
+    "Metropolitan-Diversified":"Metro-Div.",
+    "Pampeana-Educated":       "Pamp.-Educ.",
+    "Intermediate-Urban":      "Interm.-Urban",
+    "Peripheral-Deprived":     "Periph.-Deprived",
+    "Semi-Rural-Active":       "Semi-Rural-Act.",
 }
 
 fig, axes = plt.subplots(1, 2, figsize=(13, 5))
