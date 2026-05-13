@@ -1,4 +1,4 @@
-# Software complexity and the accumulation of technical capabilities within a peripheral economy: a subnational typology of Argentina
+# Software complexity and regional capabilities: a subnational typology of Argentina
 
 **Author:** Raimundo Elias Gomez
 **Affiliation:** CONICET / Facultad de Humanidades y Ciencias Sociales, Universidad Nacional de Misiones (UNaM)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the data, analysis scripts, and figures for the article *"Software complexity and the accumulation of technical capabilities within a peripheral economy: a subnational typology of Argentina"*, submitted to *Regional Studies* in May 2026 (previously submitted to the *Journal of Economic Geography*, February 2026, JOEG-2026-083).
+This repository contains the data, analysis scripts, and figures for the article *"Software complexity and regional capabilities: a subnational typology of Argentina"*, submitted to *Regional Studies* in May 2026 (previously submitted to the *Journal of Economic Geography*, February 2026, JOEG-2026-083).
 
 The study constructs an Economic Complexity Index for software production (ECI<sub>software</sub>) at the level of 224 Argentine departments using a bipartite network of departments and 87 programming languages derived from 229,270 geocoded GitHub repositories. A three-stage analytical strategy — Multiple Correspondence Analysis (MCA), Hierarchical Agglomerative Clustering (CAH), and type-specific regressions — examines how the determinants of software complexity vary across six territorial types. Two robustness checks are included: (1) a bundle-based ECI recomputed after mapping individual languages onto the 38 software clusters identified by Juhász et al. (2026), confirming Pearson *r* = 0.90 with the main measure; and (2) a longitudinal stability analysis computing ECI for cumulative annual snapshots from 2015 to 2025, showing consecutive-year rank correlations of 0.82–0.97 and 68 per cent top-quintile persistence from 2020 to 2025.
 
@@ -172,7 +172,7 @@ requests
 
 If you use these data or methods, please cite:
 
-> Gomez, R. E. (2026). Software complexity and the accumulation of technical capabilities within a peripheral economy: a subnational typology of Argentina. *Submitted to Regional Studies*.
+> Gomez, R. E. (2026). Software complexity and regional capabilities: a subnational typology of Argentina. *Submitted to Regional Studies*.
 
 **Zenodo DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18674718.svg)](https://doi.org/10.5281/zenodo.18674718)
 

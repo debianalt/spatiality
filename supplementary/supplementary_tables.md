@@ -1,6 +1,6 @@
 # Supplementary Material
 
-## Software complexity and the accumulation of technical capabilities within a peripheral economy: a subnational typology of Argentina
+## Software complexity and regional capabilities: a subnational typology of Argentina
 
 **Author:** Raimundo Elias Gomez
 
